@@ -1,0 +1,501 @@
+Height (cm),Weight (kg),Age (years),Gender,Activity Level,Recommended Food,Calories (kcal)
+151,83,24,Female,Active,Tuna Salad,812
+156,85,19,Female,Sedentary,Sandwich,341
+171,56,32,Female,Active,Steak and Potatoes,898
+183,92,47,Female,Sedentary,Pasta,392
+187,71,19,Male,Sedentary,Burger,453
+172,99,28,Female,Moderate,Rice and Beans,660
+167,70,24,Male,Sedentary,Burger,346
+189,46,21,Female,Sedentary,Salad,369
+184,63,41,Male,Moderate,Grilled Fish,532
+176,78,27,Male,Sedentary,Salad,483
+170,78,42,Male,Moderate,Fruit Salad,689
+152,64,32,Female,Active,Salmon,887
+168,90,49,Male,Active,Steak and Potatoes,917
+175,65,44,Male,Moderate,Grilled Fish,644
+175,56,43,Male,Active,Salmon,787
+162,57,39,Female,Moderate,Vegetable Stir Fry,697
+167,76,29,Male,Sedentary,Sandwich,323
+150,55,20,Female,Moderate,Fruit Salad,565
+183,87,31,Female,Sedentary,Pizza,417
+190,67,37,Female,Moderate,Chicken Salad,515
+177,93,59,Male,Sedentary,Pizza,475
+163,59,30,Female,Active,Steak and Potatoes,937
+150,81,34,Female,Sedentary,Pasta,362
+157,97,38,Male,Sedentary,Burger,497
+181,79,46,Female,Sedentary,Pizza,455
+169,50,37,Male,Moderate,Vegetable Stir Fry,567
+155,98,47,Female,Active,Tuna Salad,700
+190,58,57,Female,Active,Salmon,903
+173,66,27,Female,Active,Tuna Salad,780
+165,89,54,Female,Active,Steak and Potatoes,937
+177,51,20,Female,Sedentary,Pasta,413
+167,48,51,Male,Moderate,Chicken Salad,540
+189,47,22,Male,Active,Tuna Salad,996
+184,93,45,Male,Active,Tuna Salad,852
+180,56,49,Female,Moderate,Vegetable Stir Fry,656
+175,95,56,Male,Sedentary,Pizza,348
+154,94,35,Male,Sedentary,Sandwich,432
+158,60,21,Male,Sedentary,Sandwich,490
+173,68,42,Female,Sedentary,Salad,463
+190,48,52,Male,Active,Steak and Potatoes,739
+172,45,35,Female,Active,Grilled Chicken,965
+172,74,23,Male,Sedentary,Burger,475
+161,94,26,Female,Moderate,Rice and Beans,620
+160,73,59,Female,Moderate,Fruit Salad,505
+178,71,60,Female,Moderate,Fruit Salad,548
+156,73,32,Male,Active,Grilled Chicken,733
+186,68,48,Female,Active,Steak and Potatoes,936
+178,82,27,Male,Active,Grilled Chicken,757
+161,96,55,Male,Sedentary,Pasta,396
+173,66,26,Female,Active,Eggs and Avocado,887
+178,92,25,Male,Moderate,Rice and Beans,572
+161,87,46,Female,Sedentary,Salad,346
+167,69,50,Female,Moderate,Chicken Salad,641
+181,56,54,Female,Moderate,Rice and Beans,521
+154,77,26,Male,Active,Eggs and Avocado,988
+189,85,39,Female,Moderate,Grilled Fish,685
+180,72,54,Male,Moderate,Rice and Beans,555
+159,66,24,Male,Moderate,Grilled Fish,679
+157,78,57,Male,Active,Salmon,993
+183,75,22,Male,Sedentary,Pasta,365
+190,84,48,Male,Active,Grilled Chicken,850
+153,56,56,Female,Sedentary,Burger,448
+187,84,45,Female,Active,Tuna Salad,939
+157,45,19,Female,Moderate,Vegetable Stir Fry,694
+178,47,47,Male,Sedentary,Sandwich,400
+174,90,27,Female,Moderate,Grilled Fish,672
+152,91,48,Male,Moderate,Fruit Salad,608
+164,85,31,Male,Moderate,Grilled Fish,561
+170,71,51,Male,Sedentary,Sandwich,460
+153,53,40,Female,Active,Salmon,845
+177,99,18,Female,Sedentary,Sandwich,430
+178,89,60,Female,Active,Salmon,717
+187,68,56,Female,Active,Grilled Chicken,793
+176,93,32,Female,Active,Salmon,972
+155,50,33,Female,Moderate,Fruit Salad,583
+180,73,51,Male,Moderate,Chicken Salad,665
+179,92,32,Male,Sedentary,Pizza,455
+190,77,50,Male,Active,Salmon,752
+176,75,20,Male,Moderate,Fruit Salad,590
+170,86,40,Female,Sedentary,Pizza,354
+190,85,52,Female,Moderate,Rice and Beans,560
+170,69,50,Male,Sedentary,Pizza,396
+165,96,54,Female,Active,Eggs and Avocado,762
+161,53,30,Female,Moderate,Rice and Beans,656
+153,62,31,Female,Active,Tuna Salad,849
+150,75,19,Female,Active,Grilled Chicken,898
+182,64,57,Female,Moderate,Grilled Fish,640
+153,53,44,Female,Sedentary,Salad,341
+176,78,39,Female,Sedentary,Pasta,337
+190,82,48,Female,Active,Eggs and Avocado,728
+184,61,60,Female,Moderate,Fruit Salad,676
+171,63,26,Female,Active,Steak and Potatoes,805
+153,57,39,Male,Active,Salmon,701
+178,95,32,Female,Sedentary,Pizza,354
+173,56,19,Male,Moderate,Vegetable Stir Fry,532
+171,60,45,Female,Sedentary,Salad,338
+188,94,36,Male,Active,Tuna Salad,933
+175,62,24,Female,Active,Grilled Chicken,714
+158,86,59,Female,Active,Tuna Salad,816
+169,80,41,Male,Sedentary,Pizza,332
+162,63,40,Female,Sedentary,Pasta,307
+156,59,21,Male,Moderate,Chicken Salad,555
+181,51,21,Female,Sedentary,Sandwich,312
+159,49,60,Male,Sedentary,Sandwich,490
+160,52,23,Female,Moderate,Grilled Fish,593
+186,98,50,Male,Active,Tuna Salad,725
+166,86,29,Female,Moderate,Fruit Salad,637
+154,49,57,Female,Moderate,Fruit Salad,625
+158,53,54,Female,Active,Grilled Chicken,771
+173,92,30,Male,Moderate,Rice and Beans,613
+180,78,22,Female,Sedentary,Pizza,346
+189,87,44,Male,Moderate,Vegetable Stir Fry,503
+178,92,49,Female,Moderate,Chicken Salad,542
+189,91,35,Female,Moderate,Grilled Fish,500
+155,100,48,Male,Sedentary,Burger,319
+158,59,50,Male,Active,Grilled Chicken,751
+189,66,18,Female,Moderate,Fruit Salad,548
+185,61,53,Female,Sedentary,Pizza,432
+188,80,60,Female,Active,Tuna Salad,978
+170,91,45,Male,Sedentary,Burger,365
+169,86,24,Male,Sedentary,Pasta,349
+169,88,58,Male,Moderate,Rice and Beans,615
+150,56,49,Male,Moderate,Fruit Salad,607
+177,93,51,Female,Active,Tuna Salad,843
+186,65,41,Male,Active,Eggs and Avocado,735
+180,67,46,Female,Sedentary,Sandwich,312
+150,55,58,Female,Active,Tuna Salad,732
+164,60,35,Female,Moderate,Grilled Fish,670
+155,64,21,Female,Moderate,Chicken Salad,624
+184,54,25,Male,Moderate,Grilled Fish,501
+155,68,37,Male,Sedentary,Sandwich,451
+156,91,58,Male,Active,Salmon,882
+179,45,36,Female,Moderate,Chicken Salad,576
+174,84,34,Female,Moderate,Grilled Fish,669
+190,53,32,Male,Active,Tuna Salad,714
+190,59,40,Female,Moderate,Chicken Salad,555
+180,47,21,Male,Sedentary,Salad,352
+190,86,29,Female,Moderate,Rice and Beans,660
+150,74,54,Female,Moderate,Rice and Beans,694
+183,50,24,Male,Active,Tuna Salad,778
+175,76,39,Male,Active,Grilled Chicken,716
+171,45,44,Male,Sedentary,Salad,497
+171,89,60,Male,Moderate,Vegetable Stir Fry,583
+159,60,57,Male,Moderate,Grilled Fish,541
+179,60,26,Female,Active,Eggs and Avocado,988
+177,80,38,Male,Moderate,Vegetable Stir Fry,605
+160,69,24,Male,Sedentary,Salad,391
+164,55,44,Female,Sedentary,Burger,464
+154,68,32,Female,Active,Grilled Chicken,995
+186,64,28,Male,Active,Grilled Chicken,963
+156,90,51,Female,Moderate,Fruit Salad,536
+169,46,18,Female,Active,Salmon,702
+152,54,22,Female,Sedentary,Salad,462
+190,61,28,Female,Active,Salmon,824
+178,99,27,Male,Moderate,Fruit Salad,630
+152,100,55,Female,Moderate,Vegetable Stir Fry,533
+181,74,55,Female,Sedentary,Sandwich,367
+188,55,51,Female,Moderate,Fruit Salad,645
+175,52,48,Female,Moderate,Fruit Salad,527
+175,52,41,Male,Active,Grilled Chicken,726
+184,86,58,Male,Active,Eggs and Avocado,895
+156,48,59,Female,Sedentary,Sandwich,420
+151,78,37,Female,Moderate,Grilled Fish,635
+176,82,44,Female,Active,Grilled Chicken,999
+183,52,59,Male,Sedentary,Pizza,326
+189,66,33,Male,Moderate,Fruit Salad,501
+154,55,36,Male,Moderate,Fruit Salad,538
+172,47,55,Female,Moderate,Rice and Beans,673
+175,88,28,Male,Moderate,Rice and Beans,537
+164,82,59,Male,Active,Tuna Salad,835
+166,60,55,Male,Active,Steak and Potatoes,869
+189,79,33,Male,Sedentary,Sandwich,350
+156,72,59,Female,Moderate,Vegetable Stir Fry,694
+163,64,40,Male,Active,Tuna Salad,700
+180,50,38,Male,Active,Tuna Salad,941
+152,48,18,Female,Active,Salmon,715
+178,78,34,Female,Sedentary,Sandwich,312
+171,84,60,Male,Moderate,Fruit Salad,540
+169,66,28,Male,Moderate,Rice and Beans,545
+177,92,52,Male,Sedentary,Sandwich,353
+187,91,60,Female,Active,Steak and Potatoes,906
+159,96,39,Female,Sedentary,Pizza,322
+189,46,45,Female,Sedentary,Salad,309
+174,94,53,Male,Moderate,Grilled Fish,513
+190,64,39,Male,Moderate,Grilled Fish,668
+153,64,53,Female,Sedentary,Salad,302
+156,94,50,Female,Moderate,Rice and Beans,559
+190,72,32,Female,Moderate,Fruit Salad,680
+189,46,19,Male,Sedentary,Pizza,324
+154,69,32,Male,Sedentary,Burger,337
+172,66,38,Male,Moderate,Fruit Salad,596
+188,81,46,Female,Active,Grilled Chicken,976
+175,99,32,Female,Sedentary,Pasta,410
+187,81,47,Male,Sedentary,Pizza,419
+176,55,52,Female,Moderate,Vegetable Stir Fry,621
+171,97,25,Male,Sedentary,Sandwich,429
+190,79,58,Female,Moderate,Vegetable Stir Fry,592
+151,48,24,Female,Active,Tuna Salad,707
+155,47,47,Male,Moderate,Fruit Salad,522
+190,50,35,Female,Sedentary,Salad,387
+157,61,34,Male,Active,Tuna Salad,856
+171,57,50,Male,Active,Salmon,841
+183,85,26,Female,Active,Tuna Salad,994
+172,60,24,Male,Sedentary,Salad,371
+180,61,40,Male,Sedentary,Salad,459
+190,46,55,Male,Moderate,Rice and Beans,534
+184,99,23,Female,Sedentary,Burger,452
+185,80,34,Male,Sedentary,Pasta,456
+158,71,48,Male,Sedentary,Burger,461
+180,93,43,Male,Active,Salmon,813
+169,67,60,Female,Sedentary,Pasta,464
+165,47,51,Male,Active,Steak and Potatoes,756
+159,94,30,Female,Sedentary,Salad,490
+177,58,39,Male,Active,Eggs and Avocado,958
+154,99,57,Male,Sedentary,Pizza,431
+152,98,43,Female,Sedentary,Sandwich,498
+182,92,22,Female,Active,Salmon,859
+161,86,42,Female,Sedentary,Sandwich,460
+175,56,59,Female,Sedentary,Salad,322
+179,83,24,Male,Sedentary,Pasta,473
+165,46,58,Female,Sedentary,Burger,326
+172,74,30,Female,Sedentary,Sandwich,406
+179,77,54,Female,Active,Steak and Potatoes,988
+170,80,33,Female,Active,Salmon,801
+175,45,25,Male,Moderate,Vegetable Stir Fry,698
+181,54,25,Male,Active,Steak and Potatoes,750
+160,97,60,Male,Moderate,Rice and Beans,534
+178,99,25,Male,Active,Grilled Chicken,775
+157,51,44,Female,Active,Steak and Potatoes,891
+163,61,54,Female,Active,Eggs and Avocado,780
+183,50,58,Male,Moderate,Grilled Fish,626
+160,63,41,Male,Active,Eggs and Avocado,822
+170,82,49,Male,Sedentary,Burger,376
+188,80,31,Male,Moderate,Rice and Beans,508
+167,82,24,Female,Moderate,Rice and Beans,586
+152,65,22,Male,Sedentary,Pasta,458
+184,48,43,Female,Moderate,Fruit Salad,682
+156,83,49,Male,Sedentary,Sandwich,416
+165,67,58,Female,Moderate,Chicken Salad,653
+170,79,45,Female,Active,Grilled Chicken,860
+171,98,46,Female,Active,Grilled Chicken,968
+177,62,57,Male,Active,Eggs and Avocado,818
+170,89,45,Female,Active,Salmon,816
+159,56,57,Female,Active,Steak and Potatoes,881
+156,91,47,Female,Sedentary,Pizza,476
+184,69,33,Male,Active,Eggs and Avocado,794
+154,98,26,Female,Sedentary,Burger,475
+185,87,59,Male,Active,Steak and Potatoes,864
+180,84,32,Male,Active,Steak and Potatoes,928
+168,47,47,Male,Moderate,Vegetable Stir Fry,561
+168,70,35,Male,Active,Steak and Potatoes,909
+170,79,28,Male,Sedentary,Burger,388
+174,65,54,Male,Sedentary,Salad,468
+165,66,24,Female,Active,Grilled Chicken,915
+179,81,19,Male,Moderate,Chicken Salad,614
+153,58,31,Male,Active,Eggs and Avocado,957
+156,91,32,Male,Moderate,Rice and Beans,594
+178,91,34,Female,Sedentary,Sandwich,374
+175,72,19,Male,Sedentary,Salad,436
+183,53,18,Female,Sedentary,Salad,407
+186,96,28,Female,Active,Tuna Salad,824
+182,75,36,Male,Moderate,Chicken Salad,600
+172,58,35,Male,Active,Steak and Potatoes,719
+167,77,19,Male,Sedentary,Salad,471
+157,97,34,Male,Moderate,Chicken Salad,536
+172,80,46,Female,Moderate,Rice and Beans,528
+180,55,30,Female,Active,Steak and Potatoes,726
+161,94,26,Male,Sedentary,Salad,491
+156,54,23,Female,Active,Grilled Chicken,989
+188,79,29,Male,Active,Eggs and Avocado,948
+159,60,49,Female,Active,Eggs and Avocado,775
+155,49,27,Male,Sedentary,Salad,479
+156,74,46,Male,Moderate,Fruit Salad,681
+176,87,19,Male,Moderate,Fruit Salad,579
+184,64,34,Male,Moderate,Vegetable Stir Fry,643
+153,80,51,Female,Active,Steak and Potatoes,885
+173,53,25,Female,Active,Salmon,904
+187,95,43,Female,Moderate,Chicken Salad,689
+174,89,31,Female,Sedentary,Sandwich,454
+165,58,18,Female,Sedentary,Sandwich,438
+165,72,60,Male,Active,Eggs and Avocado,748
+174,78,18,Female,Active,Grilled Chicken,714
+170,84,26,Female,Moderate,Grilled Fish,601
+189,88,22,Male,Moderate,Vegetable Stir Fry,503
+158,77,29,Male,Active,Tuna Salad,901
+179,97,28,Female,Sedentary,Pizza,352
+157,59,21,Female,Moderate,Vegetable Stir Fry,643
+176,86,45,Male,Sedentary,Salad,421
+188,92,21,Female,Active,Salmon,731
+187,71,57,Female,Active,Eggs and Avocado,806
+183,84,60,Female,Active,Salmon,922
+158,55,27,Female,Sedentary,Pasta,435
+165,100,49,Female,Active,Tuna Salad,773
+174,45,22,Female,Sedentary,Pasta,377
+188,65,54,Male,Sedentary,Pizza,453
+155,65,59,Female,Moderate,Rice and Beans,528
+186,57,57,Male,Sedentary,Pizza,440
+174,59,27,Male,Moderate,Grilled Fish,656
+189,77,41,Female,Moderate,Rice and Beans,523
+185,74,37,Male,Active,Salmon,946
+178,95,46,Female,Active,Eggs and Avocado,996
+160,47,39,Male,Sedentary,Burger,339
+183,58,36,Female,Moderate,Vegetable Stir Fry,677
+170,67,49,Male,Moderate,Grilled Fish,528
+173,95,49,Male,Sedentary,Sandwich,320
+151,92,44,Male,Sedentary,Pasta,347
+173,49,23,Male,Sedentary,Burger,493
+184,58,44,Female,Sedentary,Pizza,355
+159,78,51,Female,Active,Salmon,700
+169,90,23,Female,Moderate,Grilled Fish,674
+163,48,49,Male,Active,Grilled Chicken,765
+176,97,27,Male,Sedentary,Sandwich,335
+184,68,59,Male,Active,Tuna Salad,758
+165,67,60,Male,Active,Steak and Potatoes,820
+158,73,52,Female,Active,Salmon,969
+185,84,45,Female,Active,Tuna Salad,707
+169,83,52,Female,Active,Grilled Chicken,911
+166,85,32,Female,Active,Tuna Salad,862
+169,99,41,Male,Sedentary,Burger,468
+162,88,56,Female,Moderate,Vegetable Stir Fry,562
+166,89,50,Male,Sedentary,Pasta,500
+190,71,59,Female,Sedentary,Pasta,376
+154,95,50,Female,Moderate,Rice and Beans,543
+180,75,37,Male,Active,Steak and Potatoes,929
+155,95,48,Male,Moderate,Grilled Fish,573
+158,62,41,Male,Active,Tuna Salad,735
+164,78,33,Female,Active,Steak and Potatoes,912
+173,80,34,Male,Moderate,Fruit Salad,635
+172,62,47,Male,Active,Salmon,771
+190,97,58,Female,Sedentary,Sandwich,360
+184,82,18,Male,Moderate,Fruit Salad,583
+156,76,27,Female,Active,Tuna Salad,829
+166,76,55,Male,Active,Grilled Chicken,943
+165,92,58,Female,Active,Steak and Potatoes,915
+165,82,39,Male,Sedentary,Burger,336
+167,97,22,Female,Active,Eggs and Avocado,765
+163,78,23,Male,Active,Eggs and Avocado,977
+179,81,38,Female,Active,Grilled Chicken,808
+152,93,44,Male,Sedentary,Burger,416
+171,83,54,Male,Active,Steak and Potatoes,816
+166,83,26,Female,Sedentary,Sandwich,471
+171,89,20,Male,Moderate,Chicken Salad,503
+187,98,52,Female,Sedentary,Pizza,346
+150,65,28,Male,Sedentary,Sandwich,321
+178,80,20,Male,Moderate,Fruit Salad,679
+189,81,50,Female,Active,Grilled Chicken,843
+162,52,26,Female,Moderate,Chicken Salad,597
+184,100,48,Male,Moderate,Vegetable Stir Fry,698
+174,91,32,Male,Moderate,Rice and Beans,689
+173,96,54,Male,Active,Eggs and Avocado,707
+187,89,18,Female,Active,Steak and Potatoes,980
+162,78,44,Male,Moderate,Fruit Salad,506
+181,60,24,Male,Moderate,Grilled Fish,624
+171,71,54,Male,Active,Salmon,733
+159,51,49,Female,Active,Grilled Chicken,703
+157,81,32,Female,Sedentary,Pizza,496
+174,46,31,Male,Moderate,Chicken Salad,547
+187,96,32,Male,Moderate,Rice and Beans,612
+184,85,28,Female,Active,Eggs and Avocado,982
+167,66,40,Male,Sedentary,Burger,409
+161,65,47,Female,Moderate,Chicken Salad,571
+176,69,38,Female,Active,Eggs and Avocado,729
+157,81,29,Male,Moderate,Grilled Fish,547
+159,91,28,Male,Active,Eggs and Avocado,745
+155,66,41,Female,Active,Tuna Salad,931
+163,69,59,Male,Sedentary,Pizza,313
+151,66,22,Female,Active,Steak and Potatoes,839
+177,74,47,Male,Active,Steak and Potatoes,705
+156,47,59,Female,Active,Steak and Potatoes,939
+152,48,20,Male,Moderate,Vegetable Stir Fry,699
+167,75,23,Male,Active,Eggs and Avocado,817
+177,81,23,Male,Active,Steak and Potatoes,791
+153,98,24,Female,Moderate,Fruit Salad,641
+156,78,25,Male,Sedentary,Sandwich,331
+175,97,24,Female,Sedentary,Pizza,309
+173,73,48,Female,Active,Salmon,838
+154,83,38,Female,Moderate,Grilled Fish,692
+172,46,39,Female,Active,Eggs and Avocado,779
+188,58,53,Male,Active,Steak and Potatoes,952
+164,70,43,Male,Moderate,Fruit Salad,616
+160,99,24,Female,Moderate,Grilled Fish,564
+168,48,46,Female,Active,Grilled Chicken,711
+172,51,27,Female,Moderate,Fruit Salad,695
+162,56,37,Female,Active,Tuna Salad,974
+167,59,60,Female,Moderate,Rice and Beans,617
+190,92,46,Male,Sedentary,Pasta,410
+187,75,22,Female,Moderate,Grilled Fish,594
+175,95,28,Female,Active,Grilled Chicken,990
+183,60,27,Female,Active,Eggs and Avocado,784
+164,45,43,Female,Moderate,Chicken Salad,527
+188,78,47,Male,Sedentary,Pizza,398
+178,51,44,Male,Moderate,Grilled Fish,645
+157,67,35,Male,Active,Eggs and Avocado,753
+177,79,32,Female,Sedentary,Salad,408
+169,74,26,Female,Moderate,Rice and Beans,541
+190,94,52,Male,Sedentary,Pizza,475
+190,72,24,Male,Active,Steak and Potatoes,986
+190,77,21,Female,Active,Eggs and Avocado,915
+152,63,53,Female,Sedentary,Pizza,320
+157,83,24,Female,Moderate,Rice and Beans,675
+179,61,39,Female,Active,Steak and Potatoes,885
+179,58,42,Female,Sedentary,Pasta,384
+152,49,31,Female,Active,Grilled Chicken,798
+169,77,26,Female,Sedentary,Sandwich,408
+163,68,54,Male,Sedentary,Sandwich,355
+190,51,56,Male,Moderate,Grilled Fish,685
+150,99,51,Male,Active,Salmon,784
+172,87,35,Female,Active,Eggs and Avocado,787
+161,84,36,Female,Sedentary,Pizza,307
+160,83,19,Female,Moderate,Grilled Fish,594
+154,69,42,Male,Sedentary,Burger,469
+158,58,18,Female,Active,Eggs and Avocado,960
+162,57,56,Female,Sedentary,Pizza,494
+175,97,60,Female,Active,Salmon,822
+166,49,26,Male,Sedentary,Pizza,314
+190,52,36,Female,Sedentary,Pizza,325
+178,63,29,Female,Active,Grilled Chicken,832
+170,87,52,Female,Sedentary,Burger,356
+178,88,58,Female,Moderate,Fruit Salad,689
+161,45,47,Male,Active,Steak and Potatoes,986
+151,96,60,Male,Active,Eggs and Avocado,779
+170,45,34,Female,Moderate,Grilled Fish,618
+169,66,23,Male,Active,Grilled Chicken,700
+166,86,23,Female,Moderate,Chicken Salad,578
+166,85,51,Male,Moderate,Chicken Salad,580
+177,95,29,Female,Active,Grilled Chicken,781
+153,53,20,Female,Sedentary,Pasta,497
+170,48,59,Female,Active,Grilled Chicken,853
+153,75,40,Female,Active,Eggs and Avocado,976
+168,83,23,Male,Moderate,Chicken Salad,615
+180,92,48,Male,Active,Eggs and Avocado,796
+181,56,49,Female,Moderate,Fruit Salad,677
+152,54,46,Male,Moderate,Vegetable Stir Fry,605
+156,94,38,Male,Sedentary,Pizza,381
+157,46,27,Female,Active,Grilled Chicken,890
+161,61,30,Female,Sedentary,Salad,352
+182,93,54,Male,Moderate,Rice and Beans,630
+157,46,31,Female,Moderate,Vegetable Stir Fry,504
+156,64,32,Male,Active,Steak and Potatoes,741
+186,92,59,Male,Moderate,Rice and Beans,660
+167,54,57,Female,Sedentary,Sandwich,478
+162,93,48,Male,Active,Salmon,962
+164,57,56,Male,Sedentary,Pizza,471
+153,47,24,Male,Moderate,Grilled Fish,569
+190,72,55,Female,Active,Tuna Salad,801
+179,49,21,Male,Active,Eggs and Avocado,779
+174,96,57,Female,Active,Grilled Chicken,902
+179,64,36,Male,Moderate,Vegetable Stir Fry,613
+168,87,40,Female,Moderate,Fruit Salad,528
+174,92,35,Female,Active,Salmon,801
+161,77,32,Female,Sedentary,Sandwich,329
+181,49,35,Male,Active,Steak and Potatoes,881
+169,92,40,Male,Active,Grilled Chicken,866
+157,77,18,Male,Sedentary,Pizza,373
+170,46,33,Female,Active,Eggs and Avocado,749
+168,82,31,Male,Moderate,Vegetable Stir Fry,631
+169,61,60,Female,Active,Salmon,942
+189,95,47,Female,Sedentary,Sandwich,484
+158,47,33,Female,Active,Steak and Potatoes,771
+179,72,57,Female,Sedentary,Pasta,430
+189,49,40,Female,Sedentary,Pizza,421
+165,92,41,Female,Active,Tuna Salad,996
+161,80,28,Male,Sedentary,Burger,456
+151,68,23,Female,Moderate,Chicken Salad,612
+152,84,27,Female,Moderate,Fruit Salad,696
+187,69,27,Male,Moderate,Fruit Salad,613
+150,64,38,Female,Sedentary,Salad,452
+153,77,40,Female,Active,Steak and Potatoes,800
+177,45,45,Female,Moderate,Fruit Salad,614
+168,64,22,Male,Sedentary,Burger,442
+180,90,30,Male,Moderate,Vegetable Stir Fry,571
+181,60,42,Female,Sedentary,Pasta,340
+159,87,36,Male,Moderate,Fruit Salad,506
+181,98,29,Male,Moderate,Chicken Salad,689
+185,64,43,Female,Moderate,Fruit Salad,564
+155,99,39,Female,Sedentary,Salad,460
+150,78,59,Male,Sedentary,Salad,380
+186,96,33,Female,Moderate,Vegetable Stir Fry,552
+172,66,26,Male,Moderate,Grilled Fish,552
+168,50,51,Male,Sedentary,Burger,407
+167,96,39,Female,Moderate,Rice and Beans,602
+160,94,34,Female,Sedentary,Pasta,351
+159,63,55,Female,Moderate,Vegetable Stir Fry,689
+189,72,36,Female,Moderate,Vegetable Stir Fry,676
+174,58,31,Male,Moderate,Grilled Fish,505
+173,72,37,Female,Moderate,Vegetable Stir Fry,610
+167,78,43,Male,Sedentary,Pasta,473
+151,52,27,Male,Active,Salmon,942
+161,52,59,Female,Sedentary,Salad,381
+185,78,42,Male,Moderate,Vegetable Stir Fry,595
+181,100,39,Female,Moderate,Grilled Fish,527
+157,80,24,Female,Moderate,Vegetable Stir Fry,672
+154,61,41,Female,Moderate,Fruit Salad,523
+169,76,44,Male,Sedentary,Burger,439
+163,89,26,Male,Sedentary,Pasta,405
+157,94,37,Female,Moderate,Fruit Salad,599
+180,55,28,Female,Active,Eggs and Avocado,853
+164,53,22,Male,Active,Grilled Chicken,722
+170,83,53,Female,Moderate,Fruit Salad,652
+154,82,19,Male,Active,Eggs and Avocado,983

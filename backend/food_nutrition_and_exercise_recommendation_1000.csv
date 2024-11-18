@@ -1,0 +1,1001 @@
+Food,Protein,Fat,Carbs,Calories,Exercise Recommendation
+Rice,40.0,24.0,21.6,406.8,Go for a 30-minute run
+Carrot,47.4,7.2,5.7,398.6,Go for a 30-minute run
+Beef,25.0,12.9,24.9,150.1,Do 30 minutes of cycling
+Beef,2.3,27.6,17.0,84.5,No exercise needed
+Potato,32.0,16.9,23.1,154.1,Do 30 minutes of cycling
+Yogurt,13.2,28.3,43.4,54.8,No exercise needed
+Rice,45.4,14.6,33.3,218.2,Go for a 30-minute run
+Broccoli,43.7,8.9,40.2,284.1,Go for a 30-minute run
+Yogurt,21.7,4.6,6.9,315.1,Go for a 30-minute run
+Oats,21.2,17.4,9.8,250.7,Go for a 30-minute run
+Apple,1.7,3.9,2.8,184.2,Do 30 minutes of cycling
+Turkey,25.5,4.4,38.4,278.4,Go for a 30-minute run
+Chicken Breast,17.5,15.2,42.7,306.9,Go for a 30-minute run
+Carrot,25.2,23.5,34.0,392.3,Go for a 30-minute run
+Spinach,16.7,4.8,20.7,402.2,Go for a 30-minute run
+Yogurt,7.6,28.4,47.6,456.9,Go for a 30-minute run
+Tomato,6.5,24.6,35.2,270.5,Go for a 30-minute run
+Yogurt,48.4,5.0,5.6,480.7,Go for a 30-minute run
+Carrot,22.2,18.2,6.7,144.0,Go for a 30-minute walk
+Spinach,41.6,18.1,21.9,321.8,Go for a 30-minute run
+Banana,36.7,6.7,14.9,286.5,Go for a 30-minute run
+Carrot,38.7,23.7,36.1,76.0,No exercise needed
+Spinach,48.9,12.3,15.9,88.3,No exercise needed
+Potato,18.7,25.8,14.0,108.5,Go for a 30-minute walk
+Salmon,31.9,2.8,16.3,161.7,Do 30 minutes of cycling
+Turkey,6.8,27.1,45.7,69.5,No exercise needed
+Chicken Breast,27.8,15.3,45.1,314.5,Go for a 30-minute run
+Chicken Breast,43.0,24.7,43.9,44.2,No exercise needed
+Tofu,26.7,19.7,11.1,155.1,Do 30 minutes of cycling
+Banana,38.3,25.0,33.3,35.0,No exercise needed
+Rice,4.0,8.6,13.6,303.4,Go for a 30-minute run
+Oats,26.4,12.8,47.2,467.5,Go for a 30-minute run
+Salmon,16.9,1.4,6.6,340.4,Go for a 30-minute run
+Salmon,47.0,6.8,20.6,106.6,Go for a 30-minute walk
+Salmon,19.0,15.3,40.2,183.3,Do 30 minutes of cycling
+Chicken Breast,5.2,9.5,6.5,142.5,Go for a 30-minute walk
+Spinach,20.3,12.3,9.5,60.4,No exercise needed
+Yogurt,32.0,26.6,15.3,31.1,No exercise needed
+Yogurt,4.8,2.0,26.8,58.0,No exercise needed
+Tofu,47.1,11.8,21.4,166.7,Do 30 minutes of cycling
+Spinach,13.4,29.2,39.5,70.6,No exercise needed
+Egg,43.7,18.2,44.8,418.2,Go for a 30-minute run
+Chicken Breast,48.7,2.0,3.4,411.7,Go for a 30-minute run
+Apple,24.2,1.8,41.1,457.3,Go for a 30-minute run
+Broccoli,17.3,21.9,38.4,431.5,Go for a 30-minute run
+Carrot,2.4,25.3,25.1,398.5,Go for a 30-minute run
+Tofu,10.4,3.4,22.4,263.8,Go for a 30-minute run
+Turkey,18.3,3.0,4.8,38.5,No exercise needed
+Oats,45.8,9.7,13.8,145.5,Go for a 30-minute walk
+Yogurt,22.7,0.9,28.4,236.3,Go for a 30-minute run
+Turkey,8.6,7.1,16.9,381.9,Go for a 30-minute run
+Carrot,10.8,28.3,4.8,204.1,Go for a 30-minute run
+Spinach,5.6,2.4,45.7,452.7,Go for a 30-minute run
+Tomato,41.0,11.1,15.6,225.9,Go for a 30-minute run
+Spinach,46.9,25.9,13.3,212.0,Go for a 30-minute run
+Carrot,27.0,5.6,1.7,283.3,Go for a 30-minute run
+Rice,13.8,10.6,12.0,412.1,Go for a 30-minute run
+Tofu,1.9,4.2,49.5,67.0,No exercise needed
+Chicken Breast,49.7,26.6,19.2,431.7,Go for a 30-minute run
+Almonds,32.1,13.3,2.4,359.1,Go for a 30-minute run
+Beef,37.3,18.7,9.2,342.5,Go for a 30-minute run
+Banana,3.4,18.1,5.2,493.5,Go for a 30-minute run
+Turkey,20.4,14.1,32.9,91.9,No exercise needed
+Avocado,49.2,5.7,28.2,422.5,Go for a 30-minute run
+Chicken Breast,30.3,7.9,11.8,211.9,Go for a 30-minute run
+Avocado,8.7,6.4,24.1,92.5,No exercise needed
+Banana,47.8,26.1,46.7,354.3,Go for a 30-minute run
+Yogurt,17.3,15.8,36.9,485.2,Go for a 30-minute run
+Apple,22.2,27.2,28.9,145.2,Go for a 30-minute walk
+Yogurt,42.3,18.5,9.1,403.9,Go for a 30-minute run
+Chicken Breast,43.4,20.2,4.4,414.7,Go for a 30-minute run
+Spinach,2.5,23.5,5.0,464.5,Go for a 30-minute run
+Carrot,35.1,19.0,5.7,454.9,Go for a 30-minute run
+Banana,18.7,28.3,47.8,266.2,Go for a 30-minute run
+Potato,48.6,12.3,13.6,93.6,No exercise needed
+Yogurt,25.4,19.5,33.1,58.7,No exercise needed
+Spinach,21.8,26.0,5.8,214.4,Go for a 30-minute run
+Salmon,4.1,14.5,17.8,447.6,Go for a 30-minute run
+Spinach,5.4,7.1,32.2,118.5,Go for a 30-minute walk
+Carrot,26.8,25.0,13.0,124.2,Go for a 30-minute walk
+Yogurt,44.2,27.3,1.3,151.1,Do 30 minutes of cycling
+Yogurt,9.6,2.3,17.9,352.8,Go for a 30-minute run
+Avocado,48.5,19.7,42.5,153.1,Do 30 minutes of cycling
+Oats,8.2,5.1,31.4,417.6,Go for a 30-minute run
+Egg,11.5,1.9,19.1,406.5,Go for a 30-minute run
+Chicken Breast,45.7,17.8,5.5,154.2,Do 30 minutes of cycling
+Beef,26.5,0.9,38.3,161.2,Do 30 minutes of cycling
+Potato,21.0,14.0,45.7,76.6,No exercise needed
+Salmon,33.5,20.8,17.3,370.3,Go for a 30-minute run
+Yogurt,9.7,9.7,31.3,279.8,Go for a 30-minute run
+Egg,6.9,12.3,41.9,107.3,Go for a 30-minute walk
+Salmon,4.9,20.5,24.1,337.1,Go for a 30-minute run
+Potato,38.4,11.2,16.3,189.9,Do 30 minutes of cycling
+Tofu,18.3,25.6,23.3,276.5,Go for a 30-minute run
+Banana,34.3,0.8,14.7,393.2,Go for a 30-minute run
+Beef,46.6,9.6,16.0,442.6,Go for a 30-minute run
+Avocado,37.2,11.8,7.2,48.2,No exercise needed
+Almonds,39.3,25.6,43.5,372.9,Go for a 30-minute run
+Carrot,33.4,7.6,10.2,113.4,Go for a 30-minute walk
+Tomato,46.4,13.2,49.9,380.6,Go for a 30-minute run
+Beef,33.5,8.5,30.9,456.4,Go for a 30-minute run
+Carrot,13.1,2.9,28.6,365.2,Go for a 30-minute run
+Tomato,5.4,16.8,43.9,228.1,Go for a 30-minute run
+Broccoli,6.9,3.0,35.8,249.1,Go for a 30-minute run
+Potato,46.2,14.2,12.4,85.8,No exercise needed
+Egg,47.7,16.9,38.7,169.9,Do 30 minutes of cycling
+Broccoli,34.3,10.0,44.7,183.3,Do 30 minutes of cycling
+Egg,20.5,13.5,16.3,446.7,Go for a 30-minute run
+Tofu,20.8,27.0,26.7,402.4,Go for a 30-minute run
+Beef,49.1,19.0,28.3,173.1,Do 30 minutes of cycling
+Banana,24.5,7.8,8.9,111.4,Go for a 30-minute walk
+Potato,20.8,5.1,26.7,110.0,Go for a 30-minute walk
+Apple,5.0,16.0,2.2,461.0,Go for a 30-minute run
+Banana,1.7,22.2,17.3,54.6,No exercise needed
+Spinach,33.7,18.5,28.7,242.3,Go for a 30-minute run
+Tomato,11.8,8.5,41.3,33.1,No exercise needed
+Tomato,40.3,3.4,38.7,50.8,No exercise needed
+Beef,27.3,9.7,35.2,463.5,Go for a 30-minute run
+Oats,39.3,23.8,28.1,438.1,Go for a 30-minute run
+Banana,27.5,13.7,3.1,352.7,Go for a 30-minute run
+Egg,29.8,22.1,7.6,189.6,Do 30 minutes of cycling
+Chicken Breast,45.9,25.9,18.2,40.4,No exercise needed
+Oats,27.2,15.2,15.7,91.2,No exercise needed
+Turkey,43.4,3.5,30.9,40.2,No exercise needed
+Apple,45.9,5.2,0.2,55.1,No exercise needed
+Turkey,35.6,18.9,7.5,227.5,Go for a 30-minute run
+Carrot,47.0,10.0,14.1,193.6,Do 30 minutes of cycling
+Tomato,45.2,26.2,12.9,98.1,No exercise needed
+Tomato,32.6,25.4,13.8,326.3,Go for a 30-minute run
+Banana,47.3,18.1,33.5,245.9,Go for a 30-minute run
+Salmon,16.6,26.5,19.3,341.8,Go for a 30-minute run
+Almonds,49.6,27.7,32.0,191.2,Do 30 minutes of cycling
+Almonds,40.3,14.7,4.4,311.9,Go for a 30-minute run
+Yogurt,39.8,5.9,13.7,173.2,Do 30 minutes of cycling
+Banana,10.9,1.9,19.5,222.2,Go for a 30-minute run
+Potato,37.9,6.7,18.0,274.0,Go for a 30-minute run
+Almonds,0.3,13.8,9.5,251.4,Go for a 30-minute run
+Banana,29.9,28.7,43.9,276.3,Go for a 30-minute run
+Potato,22.7,10.5,27.5,178.6,Do 30 minutes of cycling
+Avocado,24.6,2.3,41.4,324.8,Go for a 30-minute run
+Tofu,36.3,8.8,49.9,288.5,Go for a 30-minute run
+Rice,5.2,21.5,3.2,412.1,Go for a 30-minute run
+Carrot,5.6,21.3,35.8,149.9,Go for a 30-minute walk
+Spinach,34.6,2.1,3.4,426.5,Go for a 30-minute run
+Apple,27.0,0.4,9.2,367.2,Go for a 30-minute run
+Oats,44.2,15.8,40.0,305.0,Go for a 30-minute run
+Carrot,49.4,15.3,46.0,334.1,Go for a 30-minute run
+Avocado,40.3,11.2,31.3,41.5,No exercise needed
+Beef,19.2,9.8,38.0,426.6,Go for a 30-minute run
+Banana,39.4,26.1,29.7,110.5,Go for a 30-minute walk
+Rice,20.3,26.5,48.8,41.7,No exercise needed
+Tomato,48.2,14.6,16.3,402.9,Go for a 30-minute run
+Tomato,18.0,26.9,43.0,137.4,Go for a 30-minute walk
+Potato,36.9,19.8,46.2,298.7,Go for a 30-minute run
+Avocado,43.6,11.1,31.1,306.2,Go for a 30-minute run
+Tomato,20.9,16.0,13.5,56.7,No exercise needed
+Broccoli,4.1,16.3,13.1,384.8,Go for a 30-minute run
+Salmon,22.8,20.6,19.8,452.6,Go for a 30-minute run
+Apple,36.9,8.5,28.6,70.3,No exercise needed
+Tofu,28.2,2.5,10.4,199.9,Do 30 minutes of cycling
+Turkey,25.4,25.1,48.6,324.3,Go for a 30-minute run
+Apple,33.8,25.1,23.9,275.6,Go for a 30-minute run
+Avocado,16.9,4.6,45.8,282.3,Go for a 30-minute run
+Beef,24.2,13.3,18.1,177.1,Do 30 minutes of cycling
+Egg,6.5,21.8,21.7,261.7,Go for a 30-minute run
+Chicken Breast,11.5,10.5,33.2,50.9,No exercise needed
+Apple,30.7,7.7,48.3,245.3,Go for a 30-minute run
+Apple,38.9,11.4,19.0,419.2,Go for a 30-minute run
+Egg,14.5,1.2,1.3,331.2,Go for a 30-minute run
+Chicken Breast,14.2,13.0,39.0,155.0,Do 30 minutes of cycling
+Yogurt,37.0,26.2,17.3,257.6,Go for a 30-minute run
+Oats,10.0,4.6,42.8,487.4,Go for a 30-minute run
+Beef,42.6,20.4,28.9,368.6,Go for a 30-minute run
+Beef,30.5,23.6,15.4,469.7,Go for a 30-minute run
+Tofu,6.0,15.8,14.8,37.6,No exercise needed
+Banana,44.0,6.3,4.3,333.1,Go for a 30-minute run
+Chicken Breast,32.1,5.9,41.5,43.7,No exercise needed
+Avocado,34.7,12.7,47.7,65.0,No exercise needed
+Tofu,46.8,18.4,20.5,257.2,Go for a 30-minute run
+Salmon,21.8,19.3,40.1,339.2,Go for a 30-minute run
+Banana,6.6,18.4,7.0,378.9,Go for a 30-minute run
+Carrot,3.1,9.7,36.1,168.9,Do 30 minutes of cycling
+Rice,34.2,17.3,42.8,271.5,Go for a 30-minute run
+Avocado,37.3,16.5,43.2,223.9,Go for a 30-minute run
+Chicken Breast,6.7,20.9,32.7,167.9,Do 30 minutes of cycling
+Tomato,0.3,4.8,21.4,158.9,Do 30 minutes of cycling
+Rice,1.1,18.4,38.9,189.3,Do 30 minutes of cycling
+Almonds,46.7,21.2,7.5,61.3,No exercise needed
+Beef,47.2,7.8,35.4,213.6,Go for a 30-minute run
+Yogurt,34.2,17.0,23.2,65.4,No exercise needed
+Spinach,39.0,14.2,47.7,208.9,Go for a 30-minute run
+Salmon,38.3,20.5,10.8,356.7,Go for a 30-minute run
+Salmon,31.8,3.1,3.4,468.4,Go for a 30-minute run
+Beef,34.3,12.7,33.7,400.0,Go for a 30-minute run
+Apple,8.3,6.7,26.6,273.5,Go for a 30-minute run
+Salmon,24.5,17.0,6.2,382.3,Go for a 30-minute run
+Carrot,4.6,16.9,18.1,348.7,Go for a 30-minute run
+Avocado,18.0,6.8,22.6,210.0,Go for a 30-minute run
+Tofu,20.2,11.9,29.3,347.9,Go for a 30-minute run
+Potato,28.6,8.3,2.2,189.1,Do 30 minutes of cycling
+Banana,20.7,3.2,23.5,169.0,Do 30 minutes of cycling
+Tofu,19.3,17.9,18.5,291.0,Go for a 30-minute run
+Spinach,46.7,20.5,40.3,293.8,Go for a 30-minute run
+Salmon,44.0,11.8,13.9,399.6,Go for a 30-minute run
+Rice,19.7,18.4,18.4,422.0,Go for a 30-minute run
+Almonds,26.3,0.9,33.2,463.4,Go for a 30-minute run
+Banana,36.6,9.5,17.1,296.1,Go for a 30-minute run
+Turkey,15.2,18.5,18.2,194.8,Do 30 minutes of cycling
+Beef,16.8,4.9,7.2,273.3,Go for a 30-minute run
+Chicken Breast,37.5,24.2,42.3,182.4,Do 30 minutes of cycling
+Apple,16.3,6.0,43.8,284.1,Go for a 30-minute run
+Yogurt,37.3,11.6,13.8,488.5,Go for a 30-minute run
+Tomato,7.7,21.8,16.7,465.5,Go for a 30-minute run
+Broccoli,40.3,11.9,47.5,427.3,Go for a 30-minute run
+Broccoli,34.5,22.9,13.1,172.9,Do 30 minutes of cycling
+Oats,12.1,19.8,44.3,226.2,Go for a 30-minute run
+Beef,15.6,19.7,23.4,121.1,Go for a 30-minute walk
+Avocado,10.3,20.5,24.4,211.1,Go for a 30-minute run
+Avocado,4.4,27.0,19.2,367.1,Go for a 30-minute run
+Egg,12.1,23.2,11.2,348.3,Go for a 30-minute run
+Tomato,36.7,23.8,28.8,223.7,Go for a 30-minute run
+Oats,12.0,24.1,12.2,73.3,No exercise needed
+Beef,38.3,5.7,3.7,50.0,No exercise needed
+Rice,28.8,25.4,29.7,326.0,Go for a 30-minute run
+Potato,37.0,19.2,32.9,142.9,Go for a 30-minute walk
+Spinach,23.8,11.1,45.7,463.1,Go for a 30-minute run
+Yogurt,43.4,10.3,0.4,160.1,Do 30 minutes of cycling
+Broccoli,39.6,26.1,42.1,433.8,Go for a 30-minute run
+Tomato,27.5,27.6,37.3,394.0,Go for a 30-minute run
+Banana,10.7,19.9,47.5,278.1,Go for a 30-minute run
+Tofu,32.6,4.0,41.8,129.5,Go for a 30-minute walk
+Salmon,32.5,26.3,35.3,265.8,Go for a 30-minute run
+Avocado,44.3,2.8,19.3,92.4,No exercise needed
+Avocado,25.9,13.5,22.2,365.0,Go for a 30-minute run
+Chicken Breast,12.1,9.4,39.2,440.3,Go for a 30-minute run
+Salmon,6.5,30.0,1.8,319.6,Go for a 30-minute run
+Tomato,7.9,11.6,30.1,412.6,Go for a 30-minute run
+Chicken Breast,18.1,14.8,46.5,188.8,Do 30 minutes of cycling
+Broccoli,15.4,10.6,34.6,91.8,No exercise needed
+Salmon,24.5,18.9,46.8,318.1,Go for a 30-minute run
+Egg,7.8,28.6,44.3,249.3,Go for a 30-minute run
+Spinach,7.2,4.1,32.5,312.1,Go for a 30-minute run
+Broccoli,1.3,26.4,33.9,227.1,Go for a 30-minute run
+Chicken Breast,35.9,11.4,30.7,438.6,Go for a 30-minute run
+Banana,30.9,0.8,19.5,383.2,Go for a 30-minute run
+Chicken Breast,12.5,2.4,24.9,331.8,Go for a 30-minute run
+Banana,15.2,12.2,36.9,355.4,Go for a 30-minute run
+Turkey,38.0,14.9,33.7,431.7,Go for a 30-minute run
+Oats,24.7,13.6,13.5,259.9,Go for a 30-minute run
+Tomato,34.6,9.8,32.7,86.6,No exercise needed
+Yogurt,4.6,2.5,27.9,430.1,Go for a 30-minute run
+Banana,26.5,1.2,9.7,203.1,Go for a 30-minute run
+Spinach,32.3,19.2,48.7,330.6,Go for a 30-minute run
+Tofu,12.8,28.6,20.6,482.1,Go for a 30-minute run
+Carrot,14.9,0.1,22.2,272.8,Go for a 30-minute run
+Oats,40.6,9.7,36.1,448.4,Go for a 30-minute run
+Tofu,8.6,27.2,34.4,89.6,No exercise needed
+Apple,26.5,15.1,13.2,308.8,Go for a 30-minute run
+Broccoli,30.8,25.6,27.4,129.7,Go for a 30-minute walk
+Tomato,7.1,11.8,32.9,71.5,No exercise needed
+Egg,39.6,21.3,15.0,172.4,Do 30 minutes of cycling
+Chicken Breast,26.1,16.4,28.2,482.0,Go for a 30-minute run
+Spinach,30.6,29.2,27.3,104.2,Go for a 30-minute walk
+Apple,19.8,5.6,37.6,222.9,Go for a 30-minute run
+Turkey,39.2,25.9,12.5,68.0,No exercise needed
+Tomato,35.6,7.0,25.5,298.2,Go for a 30-minute run
+Rice,37.1,15.6,48.5,164.6,Do 30 minutes of cycling
+Chicken Breast,18.7,10.8,29.6,80.1,No exercise needed
+Almonds,12.9,23.7,13.7,188.1,Do 30 minutes of cycling
+Carrot,47.7,4.9,23.2,177.7,Do 30 minutes of cycling
+Broccoli,29.4,7.3,46.6,255.5,Go for a 30-minute run
+Beef,24.3,15.4,5.6,288.2,Go for a 30-minute run
+Avocado,39.3,9.2,25.3,147.7,Go for a 30-minute walk
+Banana,45.1,4.6,12.9,283.7,Go for a 30-minute run
+Rice,1.0,14.4,45.0,235.7,Go for a 30-minute run
+Yogurt,17.2,11.0,4.1,212.2,Go for a 30-minute run
+Oats,3.7,17.1,28.0,167.0,Do 30 minutes of cycling
+Apple,12.1,0.9,26.4,335.4,Go for a 30-minute run
+Salmon,44.0,19.0,33.7,284.7,Go for a 30-minute run
+Tomato,5.5,14.6,13.0,384.1,Go for a 30-minute run
+Tomato,20.5,5.7,25.3,360.9,Go for a 30-minute run
+Oats,38.9,8.8,24.1,204.5,Go for a 30-minute run
+Yogurt,29.7,1.8,49.6,473.9,Go for a 30-minute run
+Broccoli,39.8,8.2,40.1,440.3,Go for a 30-minute run
+Broccoli,41.7,0.6,32.9,65.4,No exercise needed
+Rice,14.4,28.1,30.1,205.7,Go for a 30-minute run
+Salmon,10.5,13.0,20.9,288.6,Go for a 30-minute run
+Salmon,41.6,0.2,2.4,333.2,Go for a 30-minute run
+Spinach,23.5,29.6,18.1,409.0,Go for a 30-minute run
+Turkey,38.9,11.7,4.5,117.7,Go for a 30-minute walk
+Salmon,44.1,9.5,37.5,91.9,No exercise needed
+Almonds,20.7,5.7,1.3,93.2,No exercise needed
+Carrot,25.4,10.8,30.9,467.5,Go for a 30-minute run
+Rice,10.2,5.8,8.8,152.5,Do 30 minutes of cycling
+Banana,42.1,8.2,46.1,437.0,Go for a 30-minute run
+Turkey,33.2,16.6,26.7,149.1,Go for a 30-minute walk
+Oats,26.7,29.3,38.2,440.9,Go for a 30-minute run
+Rice,15.2,8.4,32.8,380.0,Go for a 30-minute run
+Yogurt,17.0,20.4,13.3,170.5,Do 30 minutes of cycling
+Beef,22.1,4.1,11.3,183.0,Do 30 minutes of cycling
+Broccoli,15.0,22.2,31.7,48.5,No exercise needed
+Yogurt,7.2,3.1,20.7,296.1,Go for a 30-minute run
+Chicken Breast,39.4,18.5,9.8,237.6,Go for a 30-minute run
+Banana,26.8,2.8,43.3,468.3,Go for a 30-minute run
+Tofu,40.1,7.3,26.5,444.1,Go for a 30-minute run
+Avocado,24.5,1.5,6.2,305.7,Go for a 30-minute run
+Avocado,32.0,0.8,42.7,431.0,Go for a 30-minute run
+Potato,32.1,27.5,38.6,472.3,Go for a 30-minute run
+Tofu,8.7,28.3,11.0,443.5,Go for a 30-minute run
+Almonds,9.0,11.1,32.4,104.1,Go for a 30-minute walk
+Turkey,32.5,22.6,2.1,432.0,Go for a 30-minute run
+Potato,31.1,24.7,36.1,460.6,Go for a 30-minute run
+Tofu,49.8,27.5,49.5,251.4,Go for a 30-minute run
+Chicken Breast,48.9,12.1,47.0,405.1,Go for a 30-minute run
+Banana,18.2,13.2,11.3,474.0,Go for a 30-minute run
+Beef,14.9,7.3,2.3,151.7,Do 30 minutes of cycling
+Turkey,46.5,25.0,20.5,220.5,Go for a 30-minute run
+Tofu,48.6,24.5,37.2,419.1,Go for a 30-minute run
+Banana,48.5,28.1,18.0,492.2,Go for a 30-minute run
+Yogurt,25.8,20.2,5.2,208.8,Go for a 30-minute run
+Spinach,47.9,8.9,14.4,226.9,Go for a 30-minute run
+Almonds,3.8,13.4,43.0,476.9,Go for a 30-minute run
+Apple,29.1,0.7,41.5,88.3,No exercise needed
+Tofu,33.8,7.7,14.5,406.4,Go for a 30-minute run
+Beef,11.5,6.3,40.2,204.2,Go for a 30-minute run
+Carrot,0.6,6.3,8.2,397.5,Go for a 30-minute run
+Chicken Breast,22.0,22.6,22.1,422.6,Go for a 30-minute run
+Turkey,26.1,18.3,23.3,424.8,Go for a 30-minute run
+Avocado,31.3,26.6,19.9,496.3,Go for a 30-minute run
+Tofu,8.8,13.6,2.4,193.5,Do 30 minutes of cycling
+Spinach,27.7,16.5,21.1,400.3,Go for a 30-minute run
+Apple,19.6,4.7,5.0,81.3,No exercise needed
+Spinach,32.0,11.1,22.2,227.5,Go for a 30-minute run
+Potato,12.0,22.3,15.3,264.9,Go for a 30-minute run
+Egg,7.5,2.1,30.5,475.1,Go for a 30-minute run
+Egg,36.3,5.8,32.4,497.6,Go for a 30-minute run
+Chicken Breast,33.3,22.2,4.3,395.2,Go for a 30-minute run
+Banana,47.9,21.8,14.6,352.2,Go for a 30-minute run
+Almonds,23.1,19.1,9.8,65.1,No exercise needed
+Almonds,4.9,24.6,37.8,139.5,Go for a 30-minute walk
+Almonds,16.5,7.0,3.2,46.9,No exercise needed
+Tomato,46.3,18.6,45.6,46.6,No exercise needed
+Potato,2.8,15.9,36.5,433.0,Go for a 30-minute run
+Beef,16.6,21.3,12.8,195.1,Do 30 minutes of cycling
+Yogurt,41.7,23.2,1.6,497.9,Go for a 30-minute run
+Banana,47.7,28.5,9.6,456.4,Go for a 30-minute run
+Chicken Breast,13.9,2.9,48.4,430.1,Go for a 30-minute run
+Apple,31.9,21.3,44.9,170.6,Do 30 minutes of cycling
+Yogurt,15.0,26.7,28.2,284.6,Go for a 30-minute run
+Broccoli,40.4,15.3,31.1,61.8,No exercise needed
+Chicken Breast,17.7,29.2,39.2,64.0,No exercise needed
+Avocado,3.8,9.9,21.4,110.1,Go for a 30-minute walk
+Almonds,46.1,5.7,5.0,112.9,Go for a 30-minute walk
+Tofu,41.6,27.9,43.1,348.1,Go for a 30-minute run
+Potato,5.0,15.2,35.5,438.6,Go for a 30-minute run
+Potato,46.5,9.7,4.6,401.4,Go for a 30-minute run
+Avocado,35.4,24.6,1.3,31.4,No exercise needed
+Beef,30.1,7.5,22.5,489.2,Go for a 30-minute run
+Egg,25.5,3.6,42.7,416.1,Go for a 30-minute run
+Salmon,1.7,11.8,39.3,397.9,Go for a 30-minute run
+Oats,49.5,14.8,1.9,258.3,Go for a 30-minute run
+Tomato,18.9,10.7,21.1,155.9,Do 30 minutes of cycling
+Turkey,11.7,29.2,22.6,253.0,Go for a 30-minute run
+Avocado,3.3,28.5,1.1,137.7,Go for a 30-minute walk
+Tomato,3.6,16.5,36.1,413.9,Go for a 30-minute run
+Carrot,41.1,18.3,37.0,184.1,Do 30 minutes of cycling
+Rice,31.8,0.6,24.4,442.6,Go for a 30-minute run
+Avocado,1.6,14.5,18.1,80.1,No exercise needed
+Tofu,30.3,14.5,49.7,444.4,Go for a 30-minute run
+Carrot,31.5,14.0,22.1,105.8,Go for a 30-minute walk
+Avocado,2.7,28.8,6.0,371.5,Go for a 30-minute run
+Potato,31.7,19.7,47.3,102.6,Go for a 30-minute walk
+Tofu,8.3,22.5,7.1,421.3,Go for a 30-minute run
+Yogurt,3.3,8.0,37.9,450.0,Go for a 30-minute run
+Banana,30.8,5.4,31.9,428.7,Go for a 30-minute run
+Broccoli,35.2,9.3,45.2,39.7,No exercise needed
+Yogurt,29.5,8.4,1.0,111.4,Go for a 30-minute walk
+Oats,31.3,28.1,9.7,93.1,No exercise needed
+Almonds,36.8,8.4,6.6,414.4,Go for a 30-minute run
+Carrot,46.7,11.6,13.3,424.2,Go for a 30-minute run
+Avocado,38.6,23.3,43.7,274.5,Go for a 30-minute run
+Tofu,10.9,14.7,11.5,205.5,Go for a 30-minute run
+Apple,16.4,19.4,10.4,395.5,Go for a 30-minute run
+Spinach,40.4,19.8,29.3,45.2,No exercise needed
+Carrot,49.9,10.7,3.5,277.5,Go for a 30-minute run
+Avocado,32.2,13.9,39.8,362.5,Go for a 30-minute run
+Yogurt,2.5,4.8,4.5,349.6,Go for a 30-minute run
+Potato,44.3,25.8,46.2,243.6,Go for a 30-minute run
+Banana,33.2,22.8,12.0,185.7,Do 30 minutes of cycling
+Rice,35.0,4.5,35.5,140.1,Go for a 30-minute walk
+Oats,16.0,16.2,22.8,396.5,Go for a 30-minute run
+Broccoli,49.7,18.2,7.8,241.2,Go for a 30-minute run
+Egg,21.0,1.4,25.5,379.4,Go for a 30-minute run
+Broccoli,39.8,12.9,23.7,30.9,No exercise needed
+Potato,33.7,1.9,15.9,287.8,Go for a 30-minute run
+Oats,17.0,13.5,40.0,60.5,No exercise needed
+Egg,37.4,6.8,11.0,153.8,Do 30 minutes of cycling
+Rice,15.8,3.9,27.4,213.2,Go for a 30-minute run
+Egg,1.9,19.8,4.3,58.6,No exercise needed
+Spinach,6.3,6.4,1.1,254.1,Go for a 30-minute run
+Spinach,42.0,24.6,37.0,434.4,Go for a 30-minute run
+Avocado,35.9,19.9,17.3,66.6,No exercise needed
+Spinach,33.0,21.8,32.3,379.5,Go for a 30-minute run
+Apple,29.3,21.9,44.5,398.1,Go for a 30-minute run
+Almonds,37.0,17.6,23.1,349.1,Go for a 30-minute run
+Salmon,14.9,26.9,32.6,315.0,Go for a 30-minute run
+Almonds,7.9,3.7,27.3,235.9,Go for a 30-minute run
+Turkey,23.7,18.7,1.1,488.7,Go for a 30-minute run
+Beef,31.9,26.8,26.4,161.7,Do 30 minutes of cycling
+Yogurt,3.5,14.4,20.8,378.7,Go for a 30-minute run
+Spinach,11.8,20.4,8.3,347.5,Go for a 30-minute run
+Yogurt,43.0,11.6,21.5,436.3,Go for a 30-minute run
+Egg,15.8,26.2,6.4,44.6,No exercise needed
+Potato,37.2,5.3,9.8,370.7,Go for a 30-minute run
+Oats,38.0,9.0,10.5,294.5,Go for a 30-minute run
+Egg,25.7,11.8,0.0,457.8,Go for a 30-minute run
+Spinach,37.3,7.4,14.0,170.9,Do 30 minutes of cycling
+Yogurt,32.1,23.5,17.0,436.5,Go for a 30-minute run
+Rice,41.0,10.5,36.1,265.6,Go for a 30-minute run
+Spinach,35.7,2.5,9.2,373.9,Go for a 30-minute run
+Chicken Breast,28.7,21.1,16.8,282.5,Go for a 30-minute run
+Avocado,11.9,25.4,9.7,368.0,Go for a 30-minute run
+Tofu,25.6,19.9,34.3,187.4,Do 30 minutes of cycling
+Potato,27.0,5.2,22.0,471.9,Go for a 30-minute run
+Yogurt,36.6,20.3,10.2,331.2,Go for a 30-minute run
+Yogurt,31.4,4.3,4.7,404.6,Go for a 30-minute run
+Tofu,35.2,28.3,40.6,271.1,Go for a 30-minute run
+Avocado,17.1,23.4,43.5,147.9,Go for a 30-minute walk
+Avocado,41.1,21.1,28.4,37.5,No exercise needed
+Spinach,13.6,7.2,38.0,448.1,Go for a 30-minute run
+Beef,46.2,0.5,22.3,456.0,Go for a 30-minute run
+Apple,10.3,16.2,36.2,360.3,Go for a 30-minute run
+Carrot,15.0,27.0,19.4,364.1,Go for a 30-minute run
+Broccoli,11.9,4.1,27.3,237.0,Go for a 30-minute run
+Beef,46.4,15.1,36.7,180.2,Do 30 minutes of cycling
+Turkey,41.7,21.5,46.3,350.2,Go for a 30-minute run
+Beef,13.7,17.5,21.7,499.6,Go for a 30-minute run
+Tomato,41.6,24.7,33.5,188.4,Do 30 minutes of cycling
+Potato,41.8,26.7,30.0,283.1,Go for a 30-minute run
+Apple,0.0,24.3,11.4,278.0,Go for a 30-minute run
+Chicken Breast,19.1,13.0,40.6,408.3,Go for a 30-minute run
+Tofu,48.4,14.7,48.6,330.5,Go for a 30-minute run
+Banana,46.0,24.4,7.3,211.3,Go for a 30-minute run
+Rice,27.9,13.6,0.3,308.4,Go for a 30-minute run
+Banana,17.1,22.9,35.7,205.6,Go for a 30-minute run
+Almonds,39.2,28.4,28.2,347.4,Go for a 30-minute run
+Beef,33.8,19.1,30.8,356.6,Go for a 30-minute run
+Spinach,5.1,20.2,29.7,124.3,Go for a 30-minute walk
+Oats,49.3,13.4,15.9,362.8,Go for a 30-minute run
+Egg,28.6,4.3,15.7,125.2,Go for a 30-minute walk
+Egg,34.9,20.1,0.1,421.5,Go for a 30-minute run
+Chicken Breast,29.8,15.6,43.3,452.6,Go for a 30-minute run
+Salmon,48.0,5.2,34.5,204.8,Go for a 30-minute run
+Apple,15.2,9.5,47.9,173.1,Do 30 minutes of cycling
+Chicken Breast,10.0,12.0,24.4,209.8,Go for a 30-minute run
+Almonds,27.5,1.4,21.4,352.3,Go for a 30-minute run
+Carrot,7.2,12.0,11.1,431.3,Go for a 30-minute run
+Chicken Breast,40.4,5.0,32.2,253.9,Go for a 30-minute run
+Yogurt,32.5,17.8,45.9,208.0,Go for a 30-minute run
+Tofu,29.1,2.6,38.3,403.7,Go for a 30-minute run
+Chicken Breast,32.7,3.8,16.8,173.1,Do 30 minutes of cycling
+Tomato,8.5,14.7,18.7,274.8,Go for a 30-minute run
+Egg,16.4,0.4,11.5,51.9,No exercise needed
+Egg,44.8,19.6,32.2,151.6,Do 30 minutes of cycling
+Beef,41.3,21.0,43.6,474.2,Go for a 30-minute run
+Banana,35.1,11.7,35.8,163.6,Do 30 minutes of cycling
+Potato,16.7,15.3,31.2,82.4,No exercise needed
+Tomato,27.2,13.6,43.9,243.5,Go for a 30-minute run
+Chicken Breast,43.5,24.5,6.4,277.1,Go for a 30-minute run
+Chicken Breast,49.1,18.9,37.5,138.9,Go for a 30-minute walk
+Banana,32.2,28.3,36.1,330.4,Go for a 30-minute run
+Carrot,2.1,15.1,30.3,191.2,Do 30 minutes of cycling
+Apple,5.5,23.7,33.1,345.9,Go for a 30-minute run
+Tofu,40.1,27.1,28.8,489.6,Go for a 30-minute run
+Tomato,37.4,19.0,48.0,457.7,Go for a 30-minute run
+Beef,44.1,7.2,12.6,326.3,Go for a 30-minute run
+Apple,41.2,19.3,23.0,153.7,Do 30 minutes of cycling
+Broccoli,19.3,22.2,38.5,419.8,Go for a 30-minute run
+Avocado,42.5,26.0,22.8,339.6,Go for a 30-minute run
+Almonds,4.7,5.5,37.7,399.8,Go for a 30-minute run
+Tomato,4.7,21.5,49.7,439.5,Go for a 30-minute run
+Oats,3.0,19.0,35.7,458.9,Go for a 30-minute run
+Oats,7.7,14.1,43.7,439.0,Go for a 30-minute run
+Banana,37.4,28.3,11.4,76.4,No exercise needed
+Oats,35.2,7.0,37.4,412.5,Go for a 30-minute run
+Banana,27.7,20.0,28.4,37.8,No exercise needed
+Avocado,15.8,19.7,43.1,403.8,Go for a 30-minute run
+Turkey,21.7,23.0,17.4,200.9,Go for a 30-minute run
+Oats,33.7,27.7,44.5,434.3,Go for a 30-minute run
+Tofu,8.7,12.6,49.5,184.4,Do 30 minutes of cycling
+Beef,46.6,3.0,8.6,218.2,Go for a 30-minute run
+Broccoli,47.2,1.4,18.7,59.6,No exercise needed
+Salmon,35.6,28.0,21.7,293.5,Go for a 30-minute run
+Potato,4.3,21.3,33.0,329.2,Go for a 30-minute run
+Broccoli,11.9,3.7,45.5,329.5,Go for a 30-minute run
+Yogurt,33.5,14.3,33.6,168.8,Do 30 minutes of cycling
+Salmon,41.1,11.8,48.7,399.3,Go for a 30-minute run
+Banana,29.6,17.7,13.6,193.3,Do 30 minutes of cycling
+Tomato,25.1,17.2,8.2,406.3,Go for a 30-minute run
+Broccoli,41.7,12.7,11.2,408.6,Go for a 30-minute run
+Apple,12.6,27.9,14.5,445.4,Go for a 30-minute run
+Banana,42.1,12.4,44.7,352.6,Go for a 30-minute run
+Potato,44.1,27.3,45.0,359.1,Go for a 30-minute run
+Spinach,25.4,2.3,11.6,362.7,Go for a 30-minute run
+Tomato,30.5,15.8,35.8,285.6,Go for a 30-minute run
+Oats,29.6,22.4,3.6,381.4,Go for a 30-minute run
+Spinach,42.1,22.7,15.5,88.8,No exercise needed
+Chicken Breast,48.9,1.6,16.3,340.4,Go for a 30-minute run
+Carrot,42.1,0.4,27.1,460.1,Go for a 30-minute run
+Beef,22.9,23.0,32.9,198.4,Do 30 minutes of cycling
+Tofu,30.9,13.6,18.9,450.0,Go for a 30-minute run
+Egg,17.3,13.4,34.0,62.4,No exercise needed
+Tomato,35.2,0.2,12.9,418.9,Go for a 30-minute run
+Broccoli,38.3,0.3,43.7,144.2,Go for a 30-minute walk
+Almonds,3.2,14.3,2.1,282.6,Go for a 30-minute run
+Tofu,19.4,4.9,11.3,430.3,Go for a 30-minute run
+Spinach,24.7,16.8,45.6,66.2,No exercise needed
+Beef,29.3,4.3,5.0,42.6,No exercise needed
+Avocado,16.6,16.1,5.8,433.4,Go for a 30-minute run
+Almonds,12.7,24.8,40.9,235.7,Go for a 30-minute run
+Salmon,6.3,18.5,22.6,447.3,Go for a 30-minute run
+Chicken Breast,10.3,18.0,34.1,372.3,Go for a 30-minute run
+Yogurt,38.2,20.6,29.7,455.3,Go for a 30-minute run
+Turkey,38.0,7.5,23.9,490.7,Go for a 30-minute run
+Apple,42.6,23.6,9.4,124.6,Go for a 30-minute walk
+Oats,6.0,19.2,47.2,384.1,Go for a 30-minute run
+Oats,39.7,17.7,29.7,334.6,Go for a 30-minute run
+Beef,41.6,27.2,3.1,194.9,Do 30 minutes of cycling
+Oats,30.6,0.3,49.9,99.8,No exercise needed
+Beef,7.4,11.6,10.5,208.1,Go for a 30-minute run
+Tofu,45.6,4.5,8.1,156.8,Do 30 minutes of cycling
+Oats,16.6,14.4,8.2,471.9,Go for a 30-minute run
+Egg,9.9,18.8,5.8,200.9,Go for a 30-minute run
+Beef,44.4,17.7,39.1,452.7,Go for a 30-minute run
+Carrot,8.9,20.0,42.1,299.6,Go for a 30-minute run
+Carrot,38.0,10.9,35.7,160.5,Do 30 minutes of cycling
+Spinach,38.0,16.6,1.4,101.3,Go for a 30-minute walk
+Almonds,7.3,4.3,10.8,441.3,Go for a 30-minute run
+Almonds,47.1,8.8,7.2,353.1,Go for a 30-minute run
+Almonds,45.6,22.3,28.5,132.2,Go for a 30-minute walk
+Salmon,23.3,2.9,30.1,428.9,Go for a 30-minute run
+Chicken Breast,11.1,23.9,26.2,301.8,Go for a 30-minute run
+Tofu,40.8,13.3,36.4,495.7,Go for a 30-minute run
+Rice,18.3,16.3,31.7,87.6,No exercise needed
+Broccoli,6.2,11.4,37.0,444.0,Go for a 30-minute run
+Yogurt,22.5,8.8,37.1,454.0,Go for a 30-minute run
+Rice,2.7,3.5,3.6,88.0,No exercise needed
+Tofu,34.2,5.3,15.7,165.7,Do 30 minutes of cycling
+Turkey,25.1,27.0,1.2,179.1,Do 30 minutes of cycling
+Chicken Breast,21.7,10.3,11.9,275.2,Go for a 30-minute run
+Turkey,18.5,20.7,23.7,243.8,Go for a 30-minute run
+Avocado,18.6,2.8,47.9,457.9,Go for a 30-minute run
+Carrot,33.4,20.7,8.2,260.9,Go for a 30-minute run
+Tofu,45.2,21.4,7.5,189.6,Do 30 minutes of cycling
+Oats,15.1,19.5,2.0,420.4,Go for a 30-minute run
+Beef,45.1,26.1,13.6,474.7,Go for a 30-minute run
+Salmon,14.3,17.1,5.6,173.0,Do 30 minutes of cycling
+Oats,42.1,12.7,20.8,358.3,Go for a 30-minute run
+Beef,49.1,11.6,13.0,262.7,Go for a 30-minute run
+Tofu,14.5,15.9,44.8,375.5,Go for a 30-minute run
+Banana,5.7,27.9,8.4,485.4,Go for a 30-minute run
+Broccoli,7.5,29.0,13.9,458.7,Go for a 30-minute run
+Banana,48.1,6.8,37.7,130.0,Go for a 30-minute walk
+Spinach,4.0,1.9,28.9,161.0,Do 30 minutes of cycling
+Rice,5.3,8.9,8.7,199.2,Do 30 minutes of cycling
+Carrot,35.5,21.5,32.5,498.7,Go for a 30-minute run
+Yogurt,36.0,7.9,1.2,119.2,Go for a 30-minute walk
+Avocado,30.3,3.9,23.3,458.7,Go for a 30-minute run
+Salmon,10.8,14.1,31.6,265.9,Go for a 30-minute run
+Yogurt,0.1,26.2,17.5,417.3,Go for a 30-minute run
+Apple,27.8,8.1,24.4,358.9,Go for a 30-minute run
+Apple,0.2,8.0,4.3,154.1,Do 30 minutes of cycling
+Potato,17.9,18.8,29.9,210.7,Go for a 30-minute run
+Chicken Breast,25.5,10.4,43.3,233.4,Go for a 30-minute run
+Avocado,23.6,18.1,21.9,461.7,Go for a 30-minute run
+Salmon,47.7,17.6,26.8,191.2,Do 30 minutes of cycling
+Carrot,32.1,18.4,28.9,137.3,Go for a 30-minute walk
+Avocado,26.7,20.3,45.1,332.6,Go for a 30-minute run
+Carrot,3.6,26.1,45.2,338.7,Go for a 30-minute run
+Chicken Breast,5.7,5.5,3.0,415.3,Go for a 30-minute run
+Carrot,35.3,10.8,7.9,126.3,Go for a 30-minute walk
+Yogurt,28.8,1.2,46.4,168.8,Do 30 minutes of cycling
+Turkey,46.3,8.3,37.3,309.3,Go for a 30-minute run
+Avocado,4.3,22.7,47.8,183.8,Do 30 minutes of cycling
+Banana,49.3,10.9,32.9,417.9,Go for a 30-minute run
+Apple,28.4,27.3,28.7,71.2,No exercise needed
+Avocado,5.9,5.6,42.0,328.9,Go for a 30-minute run
+Turkey,46.3,3.3,25.4,296.6,Go for a 30-minute run
+Broccoli,4.4,5.6,22.3,455.0,Go for a 30-minute run
+Yogurt,25.0,23.2,7.1,315.9,Go for a 30-minute run
+Yogurt,47.0,15.1,13.7,349.5,Go for a 30-minute run
+Rice,46.9,26.9,25.4,60.1,No exercise needed
+Apple,41.9,4.9,11.9,123.1,Go for a 30-minute walk
+Banana,1.5,22.3,39.1,160.7,Do 30 minutes of cycling
+Egg,39.2,1.0,4.2,208.6,Go for a 30-minute run
+Banana,14.6,20.6,7.5,105.2,Go for a 30-minute walk
+Egg,28.8,18.5,46.6,379.6,Go for a 30-minute run
+Beef,24.8,25.2,7.9,111.6,Go for a 30-minute walk
+Egg,9.9,23.8,14.5,371.6,Go for a 30-minute run
+Tofu,35.2,8.9,48.9,321.9,Go for a 30-minute run
+Tomato,34.2,2.6,14.6,240.4,Go for a 30-minute run
+Salmon,27.9,11.2,7.4,407.0,Go for a 30-minute run
+Banana,26.2,20.7,7.2,403.5,Go for a 30-minute run
+Tomato,49.9,19.5,42.0,69.2,No exercise needed
+Turkey,16.0,10.8,45.1,134.5,Go for a 30-minute walk
+Carrot,6.1,25.4,2.8,428.9,Go for a 30-minute run
+Almonds,6.2,26.3,30.1,35.8,No exercise needed
+Broccoli,5.7,11.2,49.9,192.3,Do 30 minutes of cycling
+Carrot,3.7,16.9,9.8,437.6,Go for a 30-minute run
+Apple,8.7,3.9,30.4,279.1,Go for a 30-minute run
+Potato,38.8,24.9,39.3,169.7,Do 30 minutes of cycling
+Egg,44.2,28.1,49.3,289.6,Go for a 30-minute run
+Broccoli,15.1,10.7,17.8,338.3,Go for a 30-minute run
+Broccoli,8.0,21.0,18.1,190.2,Do 30 minutes of cycling
+Salmon,13.0,13.7,25.8,321.8,Go for a 30-minute run
+Yogurt,24.6,10.9,27.5,172.1,Do 30 minutes of cycling
+Rice,5.7,8.3,46.7,188.3,Do 30 minutes of cycling
+Salmon,26.2,15.3,32.5,493.6,Go for a 30-minute run
+Yogurt,29.1,2.5,0.8,244.9,Go for a 30-minute run
+Potato,43.9,21.9,31.5,386.6,Go for a 30-minute run
+Tofu,12.0,28.9,3.4,486.0,Go for a 30-minute run
+Salmon,8.3,7.0,20.3,312.2,Go for a 30-minute run
+Tofu,46.7,28.9,31.9,76.4,No exercise needed
+Carrot,1.4,12.9,25.5,140.6,Go for a 30-minute walk
+Broccoli,34.4,23.1,33.9,201.8,Go for a 30-minute run
+Carrot,46.8,25.6,13.9,287.3,Go for a 30-minute run
+Salmon,39.7,27.3,33.1,320.3,Go for a 30-minute run
+Salmon,40.6,10.3,25.2,119.1,Go for a 30-minute walk
+Egg,8.5,5.5,26.6,106.4,Go for a 30-minute walk
+Apple,38.2,28.8,41.7,421.1,Go for a 30-minute run
+Carrot,21.2,29.3,19.9,330.7,Go for a 30-minute run
+Carrot,23.5,14.5,22.8,372.3,Go for a 30-minute run
+Apple,45.6,27.8,29.3,473.9,Go for a 30-minute run
+Rice,37.3,18.2,4.7,251.5,Go for a 30-minute run
+Banana,3.7,6.3,36.3,31.7,No exercise needed
+Almonds,32.3,10.3,20.0,292.7,Go for a 30-minute run
+Salmon,30.5,13.7,25.4,391.6,Go for a 30-minute run
+Salmon,7.4,19.8,37.0,182.7,Do 30 minutes of cycling
+Tofu,7.7,25.0,26.5,268.2,Go for a 30-minute run
+Banana,36.8,28.7,19.7,46.5,No exercise needed
+Carrot,45.0,24.1,2.0,423.4,Go for a 30-minute run
+Broccoli,22.5,24.0,40.8,198.1,Do 30 minutes of cycling
+Oats,11.7,5.7,7.4,330.5,Go for a 30-minute run
+Spinach,35.1,4.5,22.5,357.4,Go for a 30-minute run
+Avocado,44.5,9.4,24.9,107.3,Go for a 30-minute walk
+Carrot,49.1,24.2,38.3,256.0,Go for a 30-minute run
+Egg,24.8,28.6,28.5,478.2,Go for a 30-minute run
+Tofu,15.7,20.4,42.8,210.2,Go for a 30-minute run
+Oats,22.4,25.3,14.5,416.5,Go for a 30-minute run
+Potato,34.2,29.9,10.9,310.1,Go for a 30-minute run
+Beef,43.1,19.8,36.5,310.8,Go for a 30-minute run
+Banana,46.9,26.0,21.0,226.3,Go for a 30-minute run
+Broccoli,40.8,10.9,42.8,499.6,Go for a 30-minute run
+Almonds,3.5,4.2,8.6,117.0,Go for a 30-minute walk
+Egg,13.1,1.4,24.0,284.1,Go for a 30-minute run
+Beef,7.6,27.4,10.6,470.2,Go for a 30-minute run
+Turkey,18.4,20.5,24.5,253.3,Go for a 30-minute run
+Banana,38.1,22.9,22.9,444.9,Go for a 30-minute run
+Rice,14.0,27.7,3.8,99.5,No exercise needed
+Yogurt,44.0,2.8,39.1,325.7,Go for a 30-minute run
+Apple,49.6,18.2,38.5,342.1,Go for a 30-minute run
+Turkey,27.2,15.0,11.0,225.9,Go for a 30-minute run
+Avocado,30.0,2.3,14.7,197.2,Do 30 minutes of cycling
+Broccoli,36.8,28.1,45.6,267.2,Go for a 30-minute run
+Banana,33.9,7.3,25.2,163.5,Do 30 minutes of cycling
+Turkey,40.4,15.7,6.0,377.0,Go for a 30-minute run
+Yogurt,18.6,7.2,28.6,372.8,Go for a 30-minute run
+Potato,41.9,22.6,3.6,377.2,Go for a 30-minute run
+Tomato,36.7,16.5,6.9,133.6,Go for a 30-minute walk
+Turkey,13.0,16.1,19.9,476.2,Go for a 30-minute run
+Tomato,11.0,4.4,45.0,276.4,Go for a 30-minute run
+Broccoli,48.3,18.2,27.3,380.1,Go for a 30-minute run
+Rice,1.7,17.0,8.1,320.0,Go for a 30-minute run
+Yogurt,34.8,17.8,21.2,98.3,No exercise needed
+Tofu,47.8,4.6,35.3,475.5,Go for a 30-minute run
+Tofu,25.2,4.5,28.1,65.5,No exercise needed
+Banana,26.9,21.9,7.4,40.0,No exercise needed
+Carrot,6.9,8.6,6.4,251.4,Go for a 30-minute run
+Spinach,45.8,28.9,48.2,202.1,Go for a 30-minute run
+Tofu,35.1,20.3,41.8,52.0,No exercise needed
+Spinach,13.6,6.5,35.3,413.6,Go for a 30-minute run
+Almonds,46.9,12.7,1.9,497.7,Go for a 30-minute run
+Beef,44.7,25.4,16.4,262.4,Go for a 30-minute run
+Oats,33.7,18.9,12.0,318.9,Go for a 30-minute run
+Spinach,42.5,18.8,1.9,228.1,Go for a 30-minute run
+Salmon,24.7,21.8,46.9,119.8,Go for a 30-minute walk
+Almonds,35.9,25.7,44.7,193.5,Do 30 minutes of cycling
+Apple,13.9,3.6,44.4,229.9,Go for a 30-minute run
+Spinach,35.8,6.0,32.3,356.4,Go for a 30-minute run
+Chicken Breast,35.8,25.0,32.7,35.7,No exercise needed
+Potato,26.3,28.0,2.1,199.1,Do 30 minutes of cycling
+Tomato,3.3,10.8,28.1,108.4,Go for a 30-minute walk
+Potato,46.3,3.6,43.3,152.7,Do 30 minutes of cycling
+Avocado,4.3,22.2,5.5,347.9,Go for a 30-minute run
+Oats,49.2,15.9,39.3,240.4,Go for a 30-minute run
+Apple,14.9,15.6,20.3,192.2,Do 30 minutes of cycling
+Turkey,29.3,9.3,3.9,129.3,Go for a 30-minute walk
+Rice,24.4,16.7,9.7,52.0,No exercise needed
+Oats,5.9,16.8,31.8,331.3,Go for a 30-minute run
+Banana,14.3,16.8,18.9,35.3,No exercise needed
+Rice,31.1,11.4,15.0,143.4,Go for a 30-minute walk
+Chicken Breast,28.3,8.6,23.6,310.7,Go for a 30-minute run
+Tofu,29.9,7.0,6.6,421.2,Go for a 30-minute run
+Egg,45.4,17.6,4.2,352.8,Go for a 30-minute run
+Egg,33.8,16.4,49.3,217.9,Go for a 30-minute run
+Yogurt,20.4,15.1,44.0,484.9,Go for a 30-minute run
+Potato,42.9,18.5,45.2,472.4,Go for a 30-minute run
+Spinach,21.6,1.4,4.6,124.9,Go for a 30-minute walk
+Carrot,2.5,12.4,2.2,433.2,Go for a 30-minute run
+Apple,29.9,9.3,7.3,156.8,Do 30 minutes of cycling
+Egg,11.8,19.9,37.0,365.0,Go for a 30-minute run
+Almonds,34.5,9.5,26.6,328.4,Go for a 30-minute run
+Potato,2.2,8.9,13.3,381.7,Go for a 30-minute run
+Almonds,12.6,18.3,17.5,294.8,Go for a 30-minute run
+Tomato,31.2,14.2,22.9,464.6,Go for a 30-minute run
+Broccoli,34.6,16.6,13.1,417.0,Go for a 30-minute run
+Potato,20.2,26.5,38.5,78.1,No exercise needed
+Tofu,5.7,20.5,11.0,336.4,Go for a 30-minute run
+Yogurt,28.3,6.2,31.7,474.1,Go for a 30-minute run
+Salmon,0.9,11.0,36.7,431.2,Go for a 30-minute run
+Rice,20.9,9.8,4.4,71.4,No exercise needed
+Potato,12.3,25.9,19.8,105.7,Go for a 30-minute walk
+Broccoli,46.3,25.4,26.6,259.3,Go for a 30-minute run
+Almonds,6.4,17.2,27.2,202.6,Go for a 30-minute run
+Potato,14.8,22.5,32.8,442.7,Go for a 30-minute run
+Apple,22.4,17.4,4.1,174.0,Do 30 minutes of cycling
+Turkey,21.0,1.3,37.7,329.7,Go for a 30-minute run
+Potato,4.8,7.4,0.2,66.9,No exercise needed
+Potato,14.1,9.1,6.0,474.2,Go for a 30-minute run
+Oats,20.7,5.3,7.1,251.0,Go for a 30-minute run
+Spinach,36.3,8.6,31.2,419.3,Go for a 30-minute run
+Potato,33.4,20.4,8.3,294.7,Go for a 30-minute run
+Salmon,33.1,25.8,28.4,111.0,Go for a 30-minute walk
+Tomato,40.2,11.5,39.4,281.9,Go for a 30-minute run
+Turkey,33.5,4.6,39.9,108.9,Go for a 30-minute walk
+Carrot,22.6,3.4,39.9,401.6,Go for a 30-minute run
+Banana,22.2,28.1,28.2,450.7,Go for a 30-minute run
+Almonds,38.3,10.3,21.6,203.5,Go for a 30-minute run
+Turkey,8.6,17.4,12.3,477.7,Go for a 30-minute run
+Turkey,49.0,12.5,34.2,319.9,Go for a 30-minute run
+Almonds,26.0,10.5,40.6,368.0,Go for a 30-minute run
+Potato,18.4,7.0,27.6,384.4,Go for a 30-minute run
+Tofu,44.7,24.5,43.5,499.3,Go for a 30-minute run
+Banana,2.3,27.0,42.5,203.5,Go for a 30-minute run
+Apple,36.6,21.4,28.6,247.8,Go for a 30-minute run
+Banana,38.8,29.1,0.1,441.3,Go for a 30-minute run
+Beef,3.7,1.9,38.1,309.4,Go for a 30-minute run
+Potato,37.6,14.2,1.6,397.1,Go for a 30-minute run
+Yogurt,43.9,10.5,26.6,483.9,Go for a 30-minute run
+Yogurt,4.6,22.8,44.0,101.6,Go for a 30-minute walk
+Broccoli,32.4,20.6,0.7,184.8,Do 30 minutes of cycling
+Avocado,6.1,0.7,23.2,418.5,Go for a 30-minute run
+Yogurt,42.7,12.4,27.1,423.2,Go for a 30-minute run
+Tomato,49.4,1.3,39.8,472.6,Go for a 30-minute run
+Chicken Breast,22.9,15.7,41.5,302.9,Go for a 30-minute run
+Salmon,16.4,23.0,2.6,380.3,Go for a 30-minute run
+Potato,42.2,29.0,35.9,243.6,Go for a 30-minute run
+Turkey,44.5,25.6,47.3,396.5,Go for a 30-minute run
+Turkey,47.1,26.4,27.7,455.7,Go for a 30-minute run
+Salmon,27.8,9.3,3.6,492.6,Go for a 30-minute run
+Almonds,9.1,23.4,22.0,70.6,No exercise needed
+Tomato,14.2,10.8,32.0,325.8,Go for a 30-minute run
+Rice,43.4,3.8,37.5,177.4,Do 30 minutes of cycling
+Spinach,5.0,15.8,19.1,259.4,Go for a 30-minute run
+Avocado,25.9,18.5,4.3,182.7,Do 30 minutes of cycling
+Oats,40.6,6.2,7.2,168.6,Do 30 minutes of cycling
+Carrot,7.4,27.0,26.2,161.6,Do 30 minutes of cycling
+Salmon,9.5,26.9,3.5,183.0,Do 30 minutes of cycling
+Turkey,14.6,28.7,17.0,217.0,Go for a 30-minute run
+Salmon,10.0,2.2,8.5,392.0,Go for a 30-minute run
+Carrot,16.9,24.6,46.7,200.6,Go for a 30-minute run
+Potato,18.0,15.5,10.2,258.9,Go for a 30-minute run
+Egg,37.3,19.0,23.4,430.9,Go for a 30-minute run
+Beef,38.8,16.1,33.5,129.1,Go for a 30-minute walk
+Avocado,32.6,25.1,35.7,294.0,Go for a 30-minute run
+Almonds,20.7,27.3,45.4,174.4,Do 30 minutes of cycling
+Yogurt,43.1,15.2,44.7,85.3,No exercise needed
+Rice,13.8,19.8,20.8,131.7,Go for a 30-minute walk
+Spinach,33.8,18.9,4.3,381.7,Go for a 30-minute run
+Tofu,7.8,17.7,15.3,292.1,Go for a 30-minute run
+Yogurt,9.6,6.6,21.9,407.6,Go for a 30-minute run
+Rice,43.5,9.4,32.1,258.9,Go for a 30-minute run
+Potato,31.0,11.6,28.7,410.2,Go for a 30-minute run
+Oats,34.6,10.2,18.5,437.9,Go for a 30-minute run
+Banana,33.9,2.4,33.1,69.5,No exercise needed
+Salmon,20.1,23.8,40.8,338.4,Go for a 30-minute run
+Carrot,6.2,15.4,41.9,300.7,Go for a 30-minute run
+Spinach,8.0,16.9,14.3,103.5,Go for a 30-minute walk
+Carrot,37.7,14.3,23.9,344.2,Go for a 30-minute run
+Oats,8.4,26.2,43.0,460.3,Go for a 30-minute run
+Apple,38.3,4.0,32.5,313.0,Go for a 30-minute run
+Tofu,11.6,30.0,35.5,427.3,Go for a 30-minute run
+Turkey,10.3,24.4,6.0,317.2,Go for a 30-minute run
+Spinach,45.7,8.0,36.1,75.3,No exercise needed
+Chicken Breast,22.2,29.9,43.4,382.9,Go for a 30-minute run
+Avocado,21.0,4.0,38.9,237.3,Go for a 30-minute run
+Yogurt,18.5,15.1,1.6,460.5,Go for a 30-minute run
+Almonds,31.0,27.2,19.6,361.6,Go for a 30-minute run
+Salmon,18.7,12.9,26.7,179.6,Do 30 minutes of cycling
+Oats,15.8,24.6,16.7,375.5,Go for a 30-minute run
+Turkey,5.5,21.5,45.9,287.7,Go for a 30-minute run
+Chicken Breast,1.0,12.7,27.3,199.3,Do 30 minutes of cycling
+Almonds,31.8,3.5,47.4,252.8,Go for a 30-minute run
+Banana,40.1,2.7,29.3,226.9,Go for a 30-minute run
+Banana,48.6,13.5,27.7,450.5,Go for a 30-minute run
+Tomato,20.8,17.8,44.5,309.6,Go for a 30-minute run
+Banana,44.5,8.9,43.2,111.5,Go for a 30-minute walk
+Salmon,42.9,19.6,2.9,243.4,Go for a 30-minute run
+Tofu,8.9,6.9,5.9,443.0,Go for a 30-minute run
+Tofu,26.9,13.0,28.1,478.9,Go for a 30-minute run
+Carrot,47.2,10.5,43.7,285.0,Go for a 30-minute run
+Salmon,30.0,28.7,19.9,230.6,Go for a 30-minute run
+Broccoli,16.9,11.3,20.6,337.4,Go for a 30-minute run
+Tofu,41.3,19.0,5.7,477.0,Go for a 30-minute run
+Oats,18.3,17.4,19.8,187.2,Do 30 minutes of cycling
+Egg,5.1,11.8,8.1,437.2,Go for a 30-minute run
+Banana,24.7,9.6,35.2,162.7,Do 30 minutes of cycling
+Avocado,4.3,27.7,18.1,95.3,No exercise needed
+Tomato,33.8,26.1,10.9,92.8,No exercise needed
+Tofu,40.0,10.7,16.6,368.3,Go for a 30-minute run
+Tofu,19.6,0.5,41.1,332.5,Go for a 30-minute run
+Salmon,4.5,21.7,0.3,330.8,Go for a 30-minute run
+Tofu,20.2,16.2,28.3,282.5,Go for a 30-minute run
+Apple,7.1,9.6,8.0,404.4,Go for a 30-minute run
+Oats,30.6,16.7,18.9,461.2,Go for a 30-minute run
+Egg,37.6,14.3,30.1,293.1,Go for a 30-minute run
+Almonds,48.0,27.6,33.4,109.4,Go for a 30-minute walk
+Chicken Breast,23.2,6.5,45.0,287.6,Go for a 30-minute run
+Chicken Breast,16.0,8.6,5.4,347.3,Go for a 30-minute run
+Rice,26.1,18.1,37.8,72.6,No exercise needed
+Tomato,38.5,17.6,21.3,32.1,No exercise needed
+Egg,24.8,3.9,45.9,334.1,Go for a 30-minute run
+Avocado,46.9,28.8,1.2,180.0,Do 30 minutes of cycling
+Broccoli,12.4,5.8,16.6,84.7,No exercise needed
+Salmon,2.2,13.4,42.9,303.7,Go for a 30-minute run
+Chicken Breast,37.2,8.5,38.0,185.4,Do 30 minutes of cycling
+Potato,42.6,18.9,36.0,303.1,Go for a 30-minute run
+Beef,38.7,25.5,34.4,207.1,Go for a 30-minute run
+Apple,37.9,23.2,46.3,329.7,Go for a 30-minute run
+Tofu,14.8,1.6,48.8,245.8,Go for a 30-minute run
+Salmon,14.2,28.3,37.4,110.9,Go for a 30-minute walk
+Avocado,28.3,8.9,41.3,344.0,Go for a 30-minute run
+Spinach,42.8,0.8,45.9,480.7,Go for a 30-minute run
+Beef,47.9,2.8,28.2,239.5,Go for a 30-minute run
+Avocado,46.8,17.4,22.1,291.4,Go for a 30-minute run
+Oats,31.5,4.3,17.1,271.8,Go for a 30-minute run
+Carrot,26.6,3.7,32.8,349.8,Go for a 30-minute run
+Tofu,30.6,0.0,21.2,146.0,Go for a 30-minute walk
+Almonds,24.6,12.7,5.5,496.3,Go for a 30-minute run
+Almonds,19.2,4.3,42.9,123.9,Go for a 30-minute walk
+Carrot,0.9,16.1,22.7,183.8,Do 30 minutes of cycling
+Beef,24.4,7.7,46.7,388.7,Go for a 30-minute run
+Spinach,18.3,24.2,38.7,58.1,No exercise needed
+Salmon,40.7,13.2,21.0,158.9,Do 30 minutes of cycling
+Almonds,14.9,15.0,23.0,330.9,Go for a 30-minute run
+Spinach,47.5,26.2,29.6,45.6,No exercise needed
+Spinach,33.8,20.8,44.5,492.0,Go for a 30-minute run
+Yogurt,40.5,26.0,31.5,464.6,Go for a 30-minute run
+Almonds,11.2,5.3,1.7,205.7,Go for a 30-minute run
+Beef,41.6,19.8,31.7,411.9,Go for a 30-minute run
+Turkey,30.8,0.4,23.2,64.7,No exercise needed
+Rice,25.0,10.1,16.4,32.8,No exercise needed
+Almonds,48.1,19.4,32.8,96.8,No exercise needed
+Chicken Breast,32.3,7.1,5.9,219.4,Go for a 30-minute run
+Avocado,1.5,11.7,34.0,247.6,Go for a 30-minute run
+Potato,8.1,23.3,21.4,454.9,Go for a 30-minute run
+Apple,24.4,0.7,19.9,331.7,Go for a 30-minute run
+Spinach,13.1,0.8,50.0,119.3,Go for a 30-minute walk
+Tofu,47.2,7.5,32.5,374.7,Go for a 30-minute run
+Almonds,10.2,8.0,36.9,396.4,Go for a 30-minute run
+Chicken Breast,5.0,5.3,35.8,209.9,Go for a 30-minute run
+Turkey,31.6,1.9,49.8,103.4,Go for a 30-minute walk
+Apple,12.5,15.9,18.4,237.4,Go for a 30-minute run
+Salmon,41.4,11.1,31.2,471.5,Go for a 30-minute run
+Carrot,36.4,25.3,33.1,455.2,Go for a 30-minute run
+Potato,35.1,6.4,38.1,179.6,Do 30 minutes of cycling
+Spinach,3.5,19.4,28.5,460.8,Go for a 30-minute run
+Turkey,20.9,9.1,32.9,94.1,No exercise needed
+Spinach,5.2,18.9,42.9,219.3,Go for a 30-minute run
+Banana,1.7,1.2,33.0,277.8,Go for a 30-minute run
+Banana,26.5,9.7,35.5,310.2,Go for a 30-minute run
+Carrot,7.8,5.0,15.3,342.9,Go for a 30-minute run
+Chicken Breast,2.8,27.6,13.6,241.1,Go for a 30-minute run
+Avocado,48.5,11.9,49.7,64.5,No exercise needed
+Salmon,32.1,17.6,15.4,458.9,Go for a 30-minute run
+Rice,8.0,18.1,16.3,356.7,Go for a 30-minute run
+Almonds,19.7,15.3,14.2,443.9,Go for a 30-minute run
+Broccoli,44.6,5.5,2.8,497.0,Go for a 30-minute run
+Egg,31.8,13.2,43.5,463.2,Go for a 30-minute run
+Yogurt,40.6,6.2,29.8,498.0,Go for a 30-minute run
+Chicken Breast,2.3,4.6,24.0,292.4,Go for a 30-minute run
+Tofu,16.8,8.8,33.3,143.0,Go for a 30-minute walk
+Oats,14.0,5.7,42.8,259.1,Go for a 30-minute run
+Tomato,35.3,11.1,5.0,386.5,Go for a 30-minute run
+Yogurt,13.2,2.7,6.7,424.0,Go for a 30-minute run
+Salmon,10.4,27.8,40.1,33.7,No exercise needed
+Broccoli,25.5,0.8,41.5,252.5,Go for a 30-minute run
+Broccoli,48.4,23.5,32.1,91.3,No exercise needed
+Oats,19.1,24.7,11.2,368.9,Go for a 30-minute run
+Spinach,41.7,27.6,6.3,61.5,No exercise needed
+Carrot,41.8,12.1,5.6,489.6,Go for a 30-minute run
+Tofu,0.1,29.0,23.5,31.9,No exercise needed
+Beef,40.5,6.6,40.2,491.0,Go for a 30-minute run
+Spinach,20.0,20.5,15.7,289.5,Go for a 30-minute run
+Spinach,19.0,4.6,6.5,407.9,Go for a 30-minute run
+Egg,35.2,27.8,27.4,54.6,No exercise needed
+Turkey,1.2,9.2,18.5,257.7,Go for a 30-minute run
+Beef,36.7,4.1,11.8,267.6,Go for a 30-minute run
+Carrot,34.4,19.3,7.4,318.7,Go for a 30-minute run
+Yogurt,24.4,18.9,44.2,97.7,No exercise needed
+Oats,31.7,5.9,29.5,359.6,Go for a 30-minute run
+Tofu,10.3,20.2,27.4,37.1,No exercise needed
+Rice,41.1,9.8,34.0,258.1,Go for a 30-minute run
+Egg,35.3,20.0,32.6,96.8,No exercise needed
+Yogurt,14.3,2.6,3.9,274.8,Go for a 30-minute run
+Yogurt,10.4,4.9,0.8,234.6,Go for a 30-minute run
+Oats,48.6,8.8,33.4,359.1,Go for a 30-minute run
+Banana,3.0,26.6,13.3,60.6,No exercise needed
+Apple,15.5,26.7,44.3,54.5,No exercise needed
+Beef,19.6,9.3,25.3,98.2,No exercise needed
+Carrot,36.9,5.8,39.2,231.8,Go for a 30-minute run
+Broccoli,11.3,24.0,25.5,243.7,Go for a 30-minute run
+Carrot,25.0,24.9,28.1,433.6,Go for a 30-minute run
+Broccoli,25.9,2.5,7.9,66.6,No exercise needed
+Banana,14.0,6.2,2.8,40.9,No exercise needed
+Carrot,24.1,18.5,34.6,33.1,No exercise needed
+Egg,36.6,7.1,32.4,408.1,Go for a 30-minute run
+Broccoli,7.3,19.3,18.8,446.3,Go for a 30-minute run
+Oats,0.9,1.6,18.3,361.3,Go for a 30-minute run
+Apple,31.5,29.8,28.3,141.9,Go for a 30-minute walk
+Tofu,35.7,2.7,14.6,326.0,Go for a 30-minute run
+Almonds,34.9,6.0,41.8,127.3,Go for a 30-minute walk
+Egg,16.2,19.5,34.1,322.6,Go for a 30-minute run
+Egg,12.3,2.1,22.0,109.9,Go for a 30-minute walk
+Broccoli,27.8,18.6,24.1,284.5,Go for a 30-minute run
+Avocado,35.5,21.8,5.0,372.0,Go for a 30-minute run
+Banana,22.7,3.7,45.1,90.2,No exercise needed
+Avocado,14.6,16.3,42.3,394.4,Go for a 30-minute run
+Avocado,3.5,28.8,12.2,491.6,Go for a 30-minute run
+Yogurt,37.9,23.8,14.6,289.0,Go for a 30-minute run
+Tofu,48.7,28.5,49.7,464.3,Go for a 30-minute run
+Chicken Breast,12.0,21.9,29.2,177.2,Do 30 minutes of cycling
+Beef,2.6,12.7,48.5,170.5,Do 30 minutes of cycling
+Tomato,46.9,0.3,1.5,203.8,Go for a 30-minute run
+Potato,46.6,6.3,42.4,440.9,Go for a 30-minute run
+Carrot,29.7,11.7,7.3,96.7,No exercise needed
+Almonds,24.0,7.9,21.9,57.6,No exercise needed
+Tofu,25.0,26.7,40.3,493.1,Go for a 30-minute run
+Broccoli,25.3,26.8,32.2,429.6,Go for a 30-minute run
+Yogurt,48.9,22.0,8.4,92.6,No exercise needed
+Turkey,40.0,2.1,37.3,130.4,Go for a 30-minute walk
+Tofu,4.8,29.4,21.4,325.9,Go for a 30-minute run
+Yogurt,19.0,11.1,26.8,228.1,Go for a 30-minute run
+Turkey,38.4,28.2,37.6,494.8,Go for a 30-minute run
+Egg,30.9,2.2,27.9,214.1,Go for a 30-minute run
+Oats,23.3,28.1,50.0,221.8,Go for a 30-minute run
+Almonds,15.3,23.2,30.0,367.3,Go for a 30-minute run
+Oats,47.5,13.5,41.6,267.9,Go for a 30-minute run
+Almonds,5.4,6.7,46.2,185.9,Do 30 minutes of cycling
+Tomato,19.3,5.9,49.1,62.1,No exercise needed
+Salmon,35.9,13.6,24.4,259.5,Go for a 30-minute run
+Turkey,2.3,23.5,27.7,163.5,Do 30 minutes of cycling
+Banana,7.5,17.3,2.8,446.1,Go for a 30-minute run
+Banana,4.0,8.6,47.2,295.5,Go for a 30-minute run
+Banana,43.7,9.5,14.5,428.1,Go for a 30-minute run
+Turkey,35.9,1.1,6.1,322.5,Go for a 30-minute run
+Broccoli,47.9,18.0,0.2,227.4,Go for a 30-minute run
+Salmon,35.4,6.8,36.5,322.2,Go for a 30-minute run
+Beef,25.2,26.7,45.1,205.3,Go for a 30-minute run
+Beef,6.3,3.6,36.8,141.1,Go for a 30-minute walk
+Turkey,24.1,10.2,34.7,452.9,Go for a 30-minute run
+Carrot,0.3,27.9,16.6,192.3,Do 30 minutes of cycling
+Spinach,22.5,8.8,32.9,111.6,Go for a 30-minute walk
+Spinach,0.1,9.4,36.7,257.2,Go for a 30-minute run
+Broccoli,46.5,9.8,20.3,262.6,Go for a 30-minute run
+Tofu,12.3,14.2,24.4,390.9,Go for a 30-minute run
+Salmon,30.5,21.7,47.2,157.9,Do 30 minutes of cycling
+Chicken Breast,39.1,28.4,38.4,344.7,Go for a 30-minute run
+Yogurt,33.0,17.0,19.4,36.1,No exercise needed
+Egg,3.9,13.2,12.4,442.6,Go for a 30-minute run
+Banana,9.8,8.5,22.6,181.3,Do 30 minutes of cycling
+Yogurt,37.3,26.5,3.1,292.5,Go for a 30-minute run
+Spinach,24.1,22.9,46.6,145.0,Go for a 30-minute walk
+Yogurt,35.0,6.3,7.4,251.9,Go for a 30-minute run
+Yogurt,1.3,29.6,26.1,40.9,No exercise needed
+Potato,14.5,14.7,33.1,419.3,Go for a 30-minute run
+Chicken Breast,31.7,29.9,42.1,230.4,Go for a 30-minute run
+Beef,0.0,10.7,32.7,81.8,No exercise needed
+Turkey,0.3,18.1,31.7,336.4,Go for a 30-minute run
+Oats,5.7,12.5,28.7,296.4,Go for a 30-minute run
+Turkey,27.5,27.7,12.6,66.9,No exercise needed
+Banana,48.6,28.3,32.1,343.9,Go for a 30-minute run
+Yogurt,29.5,22.6,47.2,250.9,Go for a 30-minute run
+Turkey,10.2,10.9,40.5,48.5,No exercise needed
+Banana,16.4,2.9,28.8,422.6,Go for a 30-minute run
+Broccoli,36.2,17.9,0.8,47.6,No exercise needed
+Chicken Breast,35.2,8.9,21.4,438.3,Go for a 30-minute run
+Avocado,13.5,24.3,22.7,410.0,Go for a 30-minute run
+Spinach,19.7,12.2,33.1,187.2,Do 30 minutes of cycling
+Avocado,32.9,6.3,18.6,133.3,Go for a 30-minute walk
